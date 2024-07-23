@@ -3,11 +3,11 @@ project:
 
 website:
   site-url: https://schlaipferm.github.io
-  title: "Personal Blog"
+  title: "CARBONIQUE"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Accueil
       - about.qmd
 
 format:
@@ -21,13 +21,13 @@ format:
 
 babelquarto:
   languagecodes:
-  - name: de
-    text: "Deutsch"
+  - name: fr
+    text: "Français"
   - name: en
     text: "English"
-  mainlanguage: 'en'
-  languages: 'de'
-title-de: "Persönlicher Blog"
-description-de: description in de
-author-de: author in de
-lang: en
+  mainlanguage: 'fr'
+  languages: ['en']
+title-en: "CARBONIQUE"
+description-en: description in en
+author-en: author in en
+lang: fr
