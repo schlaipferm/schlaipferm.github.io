@@ -9,6 +9,22 @@ website:
       - href: index.qmd
         text: Accueil
       - about.qmd
+      
+sidebar:
+    - id: home
+      title: "Home/Accueil"
+      style: "floating"
+      collapse-level: 3
+      align: left
+      contents:
+        - href: index.qmd
+          text: Home/Accueil
+        - href: Research.qmd
+          text: Research/Recherche
+        - href: People.qmd
+          text: People/Équipe
+        - href: Publications.qmd
+          text: Publications
 
 format:
   html:
