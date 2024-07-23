@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  site-url: https://schlaipferm.github.io
+  title: "Personal Blog"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
+
+babelquarto:
+  languagecodes:
+  - name: de
+    text: "Version in de"
+  - name: en
+    text: "Version in en"
+  mainlanguage: 'en'
+  languages: ['de']
+title-de: title in de
+description-de: description in de
+author-de: author in de
+lang: en
