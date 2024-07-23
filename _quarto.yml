@@ -22,12 +22,12 @@ format:
 babelquarto:
   languagecodes:
   - name: de
-    text: "Version in de"
+    text: "Deutsch"
   - name: en
-    text: "Version in en"
+    text: "English"
   mainlanguage: 'en'
   languages: ['de']
-title-de: title in de
+title-de: Persönlicher Blog
 description-de: description in de
 author-de: author in de
 lang: en
