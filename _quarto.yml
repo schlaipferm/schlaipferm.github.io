@@ -6,8 +6,6 @@ website:
   title: "CARBONIQUE"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - documentation.qmd
     right:
       - icon: github
