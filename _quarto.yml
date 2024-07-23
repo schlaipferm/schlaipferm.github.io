@@ -26,8 +26,8 @@ babelquarto:
   - name: en
     text: "English"
   mainlanguage: 'en'
-  languages: ['de']
-title-de: Persönlicher Blog
+  languages: 'de'
+title-de: "Persönlicher Blog"
 description-de: description in de
 author-de: author in de
 lang: en
