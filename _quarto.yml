@@ -7,22 +7,39 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Accueil
-      - about.qmd
-      
-sidebar:
+        text: Home
+      - documentation.qmd
+    right:
+      - icon: github
+        href: https://github.com/carboni-que
+        aria-label: Quarto GitHub
+  sidebar:
+    - id: accueil
+      title: "Accueil"
+      style: "floating"
+      collapse-level: 3
+      align: left
+      contents:
+        - href: index.qmd
+          text: Accueil
+        - href: Research.qmd
+          text: Recherche
+        - href: People.qmd
+          text: Équipe
+        - href: Publications.qmd
+          text: Publications
     - id: home
       title: "Home/Accueil"
       style: "floating"
       collapse-level: 3
       align: left
       contents:
-        - href: index.qmd
-          text: Home/Accueil
+        - href: index.en.qmd
+          text: Home
         - href: Research.qmd
-          text: Research/Recherche
+          text: Research
         - href: People.qmd
-          text: People/Équipe
+          text: People
         - href: Publications.qmd
           text: Publications
 

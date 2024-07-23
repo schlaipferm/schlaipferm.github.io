@@ -1,5 +1,6 @@
 ---
 title: "Martina's Blog"
+sidebar: home
 ---
 
 This is a Quarto website.
