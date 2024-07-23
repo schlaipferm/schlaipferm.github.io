@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Über"
 ---
 
-About this site
+Über diese Seite
