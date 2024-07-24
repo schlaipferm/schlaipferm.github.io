@@ -1,0 +1,313 @@
+---
+title: "Équipe"
+sidebar: accueil
+---
+## Chercheurs
+
+:::: {.columns}
+:::{.column width="30%"}
+
+<!--![](images/headshots/Knox-oval.png){width=85%}
+-->
+:::
+::: {.column width="70%"}
+
+ |
+-----|:-----
+Nom| Dr. Michelle Garneau
+Courriel|  garneau.michelle\@uqam.ca
+<!--GitHub| [https://github.com/sknox01](https://github.com/sknox01)-->
+
+::: 
+::::
+
+texte
+
+---
+
+:::: {.columns}
+:::{.column width="30%"}
+
+<!--![](images/headshots/ketler-oval.png){width=85%}
+-->
+:::
+::: {.column width="70%"}
+
+|
+-----|:-----
+Nom| Dr. Sara Helen Knox
+Courriel|| sara.knox\@mcgill.ca
+<!--Office| PCMH B1100-->
+
+::: 
+::::
+
+texte
+
+---
+
+:::: {.columns}
+:::{.column width="30%"}
+
+<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
+-->
+:::
+::: {.column width="70%"}
+
+ |
+-----|:-----
+Nom| Dr. Oliver Sonnentag
+Courriel| oliver.sonnentag\@umontreal.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+texte
+
+---
+
+:::: {.columns}
+:::{.column width="30%"}
+
+<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
+-->
+:::
+::: {.column width="70%"}
+
+ |
+-----|:-----
+Nom| Dr. Vincent Maire
+Courriel| Vincent.Maire\@uqtr.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+texte
+
+---
+
+:::: {.columns}
+:::{.column width="30%"}
+
+<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
+-->
+:::
+::: {.column width="70%"}
+
+ |
+-----|:-----
+Nom| Dr. Alexandre Roy
+Courriel| Alexandre.Roy\@uqtr.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+texte
+
+---
+
+:::: {.columns}
+:::{.column width="30%"}
+
+<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
+-->
+:::
+::: {.column width="70%"}
+
+ |
+-----|:-----
+Nom| Dr. Marc-André Bourgault
+Courriel| Marc-Andre.Bourgault\@ggr.ulaval.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+texte
+
+---
+
+:::: {.columns}
+:::{.column width="30%"}
+
+<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
+-->
+:::
+::: {.column width="70%"}
+
+ |
+-----|:-----
+Nom| Dr. Paul A. del Giorgio
+Courriel| del_giorgio.paul\@uqam.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+texte
+
+---
+
+:::: {.columns}
+:::{.column width="30%"}
+
+<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
+-->
+:::
+::: {.column width="70%"}
+
+ |
+-----|:-----
+Nom| Dr. Evelyne Thiffault
+Courriel|  Evelyne.Thiffault\@sbf.ulaval.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+texte
+
+---
+
+## Professionnels
+
+:::: {.columns}
+:::{.column width="30%"}
+
+<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
+-->
+:::
+::: {.column width="70%"}
+
+ |
+-----|:-----
+Nom| David Trejo
+Courriel|  trejo_cancino.david_ulises\@uqam.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+texte
+
+---
+
+:::: {.columns}
+:::{.column width="30%"}
+
+<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
+-->
+:::
+::: {.column width="70%"}
+
+ |
+-----|:-----
+Nom| Jean-Benoit Leblond Chouinard 
+Courriel|  jean-benoit.leblond-chouinard.1\@ulaval.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+texte
+
+---
+
+:::: {.columns}
+:::{.column width="30%"}
+
+<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
+-->
+:::
+::: {.column width="70%"}
+
+ |
+-----|:-----
+Nom| Martina Schlaipfer
+Courriel|  schlaipfer.martina\@uqam.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+texte
+
+---
+
+:::: {.columns}
+:::{.column width="30%"}
+
+<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
+-->
+:::
+::: {.column width="70%"}
+
+ |
+-----|:-----
+Nom| Léonie Perrier
+Courriel|  perrier.leonie\@uqam.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+texte
+
+---
+
+:::: {.columns}
+:::{.column width="30%"}
+
+<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
+-->
+:::
+::: {.column width="70%"}
+
+ |
+-----|:-----
+Nom| Olaf Kolle
+Courriel|  oeekolle\@outlook.de
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+texte
+
+---
+
+## Étudiants
+
+:::: {.columns}
+::: {.column width="50%}
+
+**Joannie Beaulne**
+: *(Doctorat en sciences forestières)*
+
+<!--![](images/headshots/darian-oval.png){width=45%}
+-->
+:::
+::: {.column width="50%"}
+
+**Joannie Boulard**
+: *(Maitrise en biologie)*
+
+<!--![](images/headshots/litman-oval.png){width=45%}
+-->
+:::
+::::
+
+:::: {.columns}
+::: {.column width="50%"}
+
+**Didier Philippo**
+: *(Maitrise en biologie)*
+
+<!--![](images/headshots/satriawan-oval.png){width=45%}
+-->
+
+:::
+::::

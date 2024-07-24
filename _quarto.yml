@@ -22,7 +22,7 @@ website:
           text: Accueil
         - href: research.qmd
           text: Recherche
-        - href: People.qmd
+        - href: people.qmd
           text: Équipe
         - href: Publications.qmd
           text: Publications
@@ -36,7 +36,7 @@ website:
           text: Home
         - href: research.qmd
           text: Research
-        - href: People.qmd
+        - href: people.qmd
           text: People
         - href: Publications.qmd
           text: Publications
