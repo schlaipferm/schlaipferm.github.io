@@ -1,5 +1,6 @@
 ---
 title: "Recherche"
+sidebar: accueil
 ---
 
 French translation

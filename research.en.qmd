@@ -1,5 +1,6 @@
 ---
 title: "Research"
+sidebar: home
 ---
 
 This research is a unique opportunity to improve understanding and prediction of the potential role of wetlands as Nature-based Climate Solutions (NbCS). Our project is the largest and most comprehensive and integrative assessment of wetland carbon dynamics and balances in Canada to date and will provide much needed new data to carry out robust, evidence-based assessments of the capacity of natural and disturbed wetlands to mitigate climate change. This research is unique in integrating all components of the C cycle to provide a robust and realistic assessment of C and GHG budgets across wetland ecosystems that are of particular importance in the Canadian landscape. By integrating lateral and vertical fluxes and combining them with soil core observations, our work will allow us to develop reliable estimates of Net Ecosystem Carbon Balance (NECB) and assess the long-term C dynamics and the impacts of anthropogenic disturbances on wetlands. Our research and collaborations also provide a unique opportunity for improving wetland biogeochemical models. 
