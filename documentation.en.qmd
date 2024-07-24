@@ -2,4 +2,4 @@
 title: "Documentation"
 ---
 
-Copy documentation from CARBONIQUE
+This page is intended to serve as a catchall with general information for the project.
