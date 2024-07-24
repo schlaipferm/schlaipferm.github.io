@@ -55,15 +55,11 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec",
+    "objectID": "documentation.html",
+    "href": "documentation.html",
+    "title": "Documentation",
     "section": "",
-    "text": "French text / French figure?",
-    "crumbs": [
-      "Documentation",
-      "Accueil"
-    ]
+    "text": "La documentation est uniquement disponible en anglais. Veuillez voir ici : https://schlaipferm.github.io/en/documentation.html"
   },
   {
     "objectID": "data.html#sites-de-terrain",
@@ -73,11 +69,15 @@
     "text": "Sites de terrain\nCette information est uniquement disponible en anglais en ce moment. Veuillez voir ici : https://schlaipferm.github.io/en/data.html  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlus de documentation à propos les procédures de maintenance de nos sites peut être trouvée ici."
   },
   {
-    "objectID": "documentation.html",
-    "href": "documentation.html",
-    "title": "Documentation",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec",
     "section": "",
-    "text": "La documentation est uniquement disponible en anglais. Veuillez voir ici : &lt;a href:“https://schlaipferm.github.io/en/documentation.html”&gt;https://schlaipferm.github.io/en/documentation.html"
+    "text": "French text / French figure?",
+    "crumbs": [
+      "Documentation",
+      "Accueil"
+    ]
   },
   {
     "objectID": "people.html",

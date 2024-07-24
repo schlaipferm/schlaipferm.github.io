@@ -27,6 +27,8 @@ website:
           text: Équipe
         # - href: Publications.qmd
         #   text: Publications
+        - href: partners.qmd
+          text: Partenaires
     - id: home
       title: "Home"
       style: "floating"
@@ -41,6 +43,8 @@ website:
           text: People
         # - href: Publications.qmd
         #   text: Publications
+        - href: partners.qmd
+          text: Partners
 
 format:
   html:
