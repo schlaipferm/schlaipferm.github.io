@@ -20,7 +20,7 @@ website:
       contents:
         - href: index.qmd
           text: Accueil
-        - href: Research.qmd
+        - href: research.qmd
           text: Recherche
         - href: People.qmd
           text: Équipe
@@ -34,7 +34,7 @@ website:
       contents:
         - href: index.qmd
           text: Home
-        - href: Research.qmd
+        - href: research.qmd
           text: Research
         - href: People.qmd
           text: People

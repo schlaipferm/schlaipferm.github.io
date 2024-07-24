@@ -1,5 +1,62 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Recherche",
+    "section": "",
+    "text": "French translation",
+    "crumbs": [
+      "Recherche"
+    ]
+  },
+  {
+    "objectID": "research.html#objective-1",
+    "href": "research.html#objective-1",
+    "title": "Recherche",
+    "section": "Objective 1:",
+    "text": "Objective 1:\ntexte",
+    "crumbs": [
+      "Recherche"
+    ]
+  },
+  {
+    "objectID": "research.html#objective-2",
+    "href": "research.html#objective-2",
+    "title": "Recherche",
+    "section": "Objective 2:",
+    "text": "Objective 2:\ntexte",
+    "crumbs": [
+      "Recherche"
+    ]
+  },
+  {
+    "objectID": "research.html#objective-3",
+    "href": "research.html#objective-3",
+    "title": "Recherche",
+    "section": "Objective 3:",
+    "text": "Objective 3:\ntexte",
+    "crumbs": [
+      "Recherche"
+    ]
+  },
+  {
+    "objectID": "research.html#objective-4",
+    "href": "research.html#objective-4",
+    "title": "Recherche",
+    "section": "Objective 4:",
+    "text": "Objective 4:\ntexte",
+    "crumbs": [
+      "Recherche"
+    ]
+  },
+  {
+    "objectID": "documentation.html",
+    "href": "documentation.html",
+    "title": "Documentation",
+    "section": "",
+    "text": "La documentation est uniquement disponible en anglais. Veuillez voir ici :"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec",
@@ -9,12 +66,5 @@
       "Documentation",
       "Accueil"
     ]
-  },
-  {
-    "objectID": "documentation.html",
-    "href": "documentation.html",
-    "title": "Documentation",
-    "section": "",
-    "text": "La documentation est uniquement disponible en anglais. Veuillez voir ici :"
   }
 ]
