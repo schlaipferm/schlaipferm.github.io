@@ -36,7 +36,7 @@ texte
 |
 -----|:-----
 Nom| Dr. Sara Helen Knox
-Courriel|| sara.knox\@mcgill.ca
+Courriel| sara.knox\@mcgill.ca
 <!--Office| PCMH B1100-->
 
 ::: 
