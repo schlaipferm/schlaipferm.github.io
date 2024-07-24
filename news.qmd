@@ -2,4 +2,4 @@
 title: "Communications et Actualités"
 ---
 
-Cette information est uniquement disponible en anglais en ce moment. Veuillez voir ici : <a href="https://schlaipferm.github.io/en/news.html">https://schlaipferm.github.io/en/data.html</a>
+Cette information est uniquement disponible en anglais en ce moment. Veuillez voir ici : <a href="https://schlaipferm.github.io/en/news.html">https://schlaipferm.github.io/en/news.html</a>
