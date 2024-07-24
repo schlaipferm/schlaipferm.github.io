@@ -7,6 +7,7 @@ website:
   navbar:
     left:
       - documentation.qmd
+      - data.qmd
     right:
       - icon: github
         href: https://github.com/carboni-que
@@ -24,8 +25,8 @@ website:
           text: Recherche
         - href: people.qmd
           text: Équipe
-        - href: Publications.qmd
-          text: Publications
+        # - href: Publications.qmd
+        #   text: Publications
     - id: home
       title: "Home"
       style: "floating"
@@ -38,8 +39,8 @@ website:
           text: Research
         - href: people.qmd
           text: People
-        - href: Publications.qmd
-          text: Publications
+        # - href: Publications.qmd
+        #   text: Publications
 
 format:
   html:

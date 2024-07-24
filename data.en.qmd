@@ -1,0 +1,136 @@
+---
+title: "Field Sites & Data"
+---
+<img src="./images/banner_lsp_dm.jpg" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto; object-fit: fill" width="750"/>
+
+## Field Sites
+This web-app shows the sites where we operate Eddy Covariance towers and Flux Chamber sites in wetlands across southern Quebec.
+
+* Click the points to sites to see more information.
+
+<div style="overflow: hidden;
+  padding-top: 75%;
+  position: relative">
+  <iframe src="https://carboni-que.github.io/FieldSiteMaps/" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+
+ <a href="https://carboni-que.github.io/FieldSiteMaps/">View map in separate window</a> 
+
+### Lac Saint-Pierre disturbed marsh (UQAM1)
+:::: {.columns}
+
+:::{.column width="65%"}
+
+* A flux tower was installed in summer 2024
+  - more info to come
+
+::: 
+
+::: {.column width="35%"}
+
+![](./images/site-images/uqam1-tower.jpg){fig-align="right" width=90%}
+
+:::
+
+::::
+
+<!-- ### Burns Bog 2 (BB2) -->
+
+<!-- :::: {.columns} -->
+
+<!-- ::: {.column width="65%"} -->
+
+<!-- * [Data Preview Graph](https://ibis.geog.ubc.ca/~micromet/data/burnsbog2.html#) (CA-DB2) (2019 - *, Delta, BC, Canada) -->
+<!-- * Download Data for [CA-DB2](https://ameriflux.lbl.gov/sites/siteinfo/CA-DB2) will soon be available from Ameriflux. -->
+<!-- * Data from the web plots are available [here](https://ibis.geog.ubc.ca/~micromet/webdata/resources/csv/)  -->
+<!--   * prefix BB2. note that this is raw data – no filtering or QCQA. Database codes are available [here](https://ibis.geog.ubc.ca/~micromet/research/Burns-Bog/Database/BB.html). -->
+<!-- * [BB2 Site Photos](https://www.flickr.com/gp/188943790@N03/ny9Pa3) -->
+
+<!-- :::  -->
+
+<!-- ::: {.column width="35%"} -->
+
+<!-- ![](images/site-images/bb2-tower.jpg){fig-align="right" width=90%} -->
+
+<!-- ::: -->
+
+<!-- :::: -->
+
+<!-- ### Burns Bog Seedling (BBS) -->
+
+<!-- :::: {.columns} -->
+
+<!-- ::: {.column width="65%"} -->
+
+<!-- * Flux chambers were installed in spring 2023 -->
+<!-- * A temporary flux tower was installed in summer 2023 -->
+<!--   - more info to come -->
+
+<!-- :::  -->
+
+<!-- ::: {.column width="35%"} -->
+
+<!-- ![](images/site-images/bbs-tower.jpg){fig-align="right" width=90%} -->
+
+<!-- ::: -->
+
+<!-- :::: -->
+
+<!-- ### Delta Salt Marsh (DSM) -->
+<!-- :::: {.columns} -->
+
+<!-- ::: {.column width="65%"} -->
+
+<!-- * [Data Preview Graph](https://ibis.geog.ubc.ca/~micromet/data/DeltaSaltMarsh.html#) (CA-DSM) (2021 - *, Delta, BC, Canada) -->
+<!-- * Data from CA-DSM will soon be available on AmeriFlux. -->
+<!-- * Data from the web plots are available [here](https://ibis.geog.ubc.ca/~micromet/webdata/resources/csv/)  -->
+<!--   * prefix  DSM. note that this is raw data – no filtering or QCQA. -->
+<!-- * [DSM Site Photos](https://www.flickr.com/gp/188943790@N03/J010Wq) -->
+
+<!-- :::  -->
+
+<!-- ::: {.column width="35%"} -->
+
+<!-- ![](images/site-images/dsm.jpg){fig-align="right" width=90%} -->
+
+<!-- ::: -->
+
+<!-- :::: -->
+
+<!-- ### Richmond Brackish Marsh (RBM) -->
+
+<!-- :::: {.columns} -->
+
+<!-- ::: {.column width="65%"} -->
+
+<!-- * [Data Preview Graph](https://ibis.geog.ubc.ca/~micromet/data/RichmondBrackishMarsh.html#) (CA-RBM) (2021 - *, Richmond, BC, Canada) -->
+<!-- * Data from CA-RBM will soon be available on AmeriFlux. -->
+<!-- * Data from the web plots are available [here](https://ibis.geog.ubc.ca/~micromet/webdata/resources/csv/")  -->
+<!--   * prefix  RBM. note that this is raw data – no filtering or QCQA. -->
+<!-- * [RBM Site Photos](https://www.flickr.com/photos/188943790@N03/albums/72177720306622844) -->
+
+<!-- :::  -->
+
+<!-- ::: {.column width="35%"} -->
+
+<!-- ![](images/site-images/RBM_20220611_tower_20.jpg){fig-align="right" width=90%} -->
+
+<!-- ::: -->
+
+<!-- :::: -->
+
+<!-- ### UBC Climate Station on Totem Field -->
+<!-- * Access to [custom data download](http://137.82.254.122/DataExport.aspx) of standard measured meteorological observations (air temperature, humidity, precipitation, soil temperatures, solar irradiance, wind) measured since 1958. Data can be downloaded in .csv format. -->
+
+<!-- ## Code and Documentation -->
+<!-- Our <a href="https://github.com/ubc-micromet">lab github</a> hosts code for flux processing, README docs for our lab, and various other bits of information. -->
+
+More documentation related to maintenance procedures for our sites can be found <a href="https://carboni-que.github.io/Documentation/">here</a>.
