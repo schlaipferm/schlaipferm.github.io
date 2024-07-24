@@ -55,20 +55,6 @@
     ]
   },
   {
-    "objectID": "documentation.html",
-    "href": "documentation.html",
-    "title": "Documentation",
-    "section": "",
-    "text": "La documentation est uniquement disponible en anglais. Veuillez voir ici : https://schlaipferm.github.io/en/documentation.html"
-  },
-  {
-    "objectID": "data.html#sites-de-terrain",
-    "href": "data.html#sites-de-terrain",
-    "title": "Sites de terrain & données",
-    "section": "Sites de terrain",
-    "text": "Sites de terrain\nCette information est uniquement disponible en anglais en ce moment. Veuillez voir ici : https://schlaipferm.github.io/en/data.html  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlus de documentation à propos les procédures de maintenance de nos sites peut être trouvée ici."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec",
@@ -78,6 +64,27 @@
       "Documentation",
       "Accueil"
     ]
+  },
+  {
+    "objectID": "data.html#sites-de-terrain",
+    "href": "data.html#sites-de-terrain",
+    "title": "Sites de terrain & données",
+    "section": "Sites de terrain",
+    "text": "Sites de terrain\nCette information est uniquement disponible en anglais en ce moment. Veuillez voir ici : https://schlaipferm.github.io/en/data.html  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlus de documentation à propos les procédures de maintenance de nos sites peut être trouvée ici."
+  },
+  {
+    "objectID": "documentation.html",
+    "href": "documentation.html",
+    "title": "Documentation",
+    "section": "",
+    "text": "La documentation est uniquement disponible en anglais. Veuillez voir ici : https://schlaipferm.github.io/en/documentation.html"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Communications et Actualités",
+    "section": "",
+    "text": "Cette information est uniquement disponible en anglais en ce moment. Veuillez voir ici : https://schlaipferm.github.io/en/data.html"
   },
   {
     "objectID": "people.html",

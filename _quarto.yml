@@ -8,6 +8,7 @@ website:
     left:
       - documentation.qmd
       - data.qmd
+      - news.qmd
     right:
       - icon: github
         href: https://github.com/carboni-que

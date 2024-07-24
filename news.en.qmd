@@ -1,0 +1,20 @@
+---
+title: "Outreach and News"
+---
+## 2024
+
+### June
+
+The team set up a platform for the first eddy covariance flux tower at a disturbed marsh site near Lac Saint-Pierre in late June.
+
+::: {layout-nrow=2}
+
+![](images/news/2023/june/IMG_20240626_170821087.jpg)
+
+![](images/news/2023/june/IMG_20240627_145801849.jpg)
+
+![](images/news/2023/june/IMG_20240626_123232381.jpg)
+
+![](images/news/2023/june/IMG_20240627_112443909.jpg)
+
+:::
