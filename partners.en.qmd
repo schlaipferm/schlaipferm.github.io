@@ -2,3 +2,73 @@
 title: "Partners"
 sidebar: home
 ---
+
+\
+
+:::: {.columns}
+
+:::{.column width="20%"}
+
+![](./images/logos/uqam.png){fig-align="right" width=90%}
+
+::: 
+
+::: {.column width="20%"}
+
+![](./images/logos/McGill.png){fig-align="right" width=90%}
+
+:::
+
+:::{.column width="20%"}
+
+![](./images/logos/UdM.png){fig-align="right" width=90%}
+
+::: 
+
+:::{.column width="20%"}
+
+![](./images/logos/ULaval.png){fig-align="right" width=90%}
+
+::: 
+
+:::{.column width="20%"}
+
+![](./images/logos/UQTR.png){fig-align="right" width=90%}
+
+::: 
+
+::::
+
+:::: {.columns}
+
+:::{.column width="20%"}
+
+![](./images/logos/MELCCFP.jpg){fig-align="right" width=90%}
+
+::: 
+
+::: {.column width="20%"}
+
+![](./images/logos/plan-verte.png){fig-align="right" width=90%}
+
+:::
+
+:::{.column width="20%"}
+
+![](./images/logos/CNC.jpg){fig-align="right" width=90%}
+
+::: 
+
+:::{.column width="20%"}
+
+![](./images/logos/CIC.jpg){fig-align="right" width=90%}
+
+::: 
+
+:::{.column width="20%"}
+
+![](./images/logos/SARCEL.png){fig-align="right" width=90%}
+
+::: 
+
+::::
