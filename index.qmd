@@ -1,8 +1,8 @@
 ---
-title: "Martina's blog"
+title: "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec"
 sidebar: accueil
 ---
 
-This is a Quarto website.
+French text / French figure?
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](./images/NECB.png){fig-align="center"}
