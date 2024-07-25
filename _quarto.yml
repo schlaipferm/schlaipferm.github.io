@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  cookie-consent: true
   site-url: https://schlaipferm.github.io
   title: "CARBONIQUE"
   navbar:
@@ -50,7 +51,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      - sandstone
+      - custom.scss
     css: styles.css
     toc: true
 
