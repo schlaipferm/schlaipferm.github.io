@@ -11,10 +11,14 @@ website:
       - documentation.qmd
       - data.qmd
       - news.qmd
+
     right:
       - icon: github
         href: https://github.com/carboni-que
         aria-label: Quarto GitHub
+      - icon: box-arrow-in-right
+        href: https://carbonique-signin-auth.web.app/index.html
+        aria-label: Login
   sidebar:
     - id: accueil
       title: "Accueil"
