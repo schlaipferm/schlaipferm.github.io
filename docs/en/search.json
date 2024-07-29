@@ -55,45 +55,6 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CARBONIQUE - CARBON cycling In QUEbec’s wetlands",
-    "section": "",
-    "text": "Contact Information\nDr. Sara Knox\nsara.knox@mcgill.ca\nThe conservation of wetlands to prevent the destruction and degradation of important carbon stocks, as well as the recognition of the role of ecosystems in climate change mitigation and adaptation, are priorities set by the governments of Quebec and Canada.\nThis project aims to improve understanding the carbon sequestration capacity of key wetland types across Canada to better quantify the role of wetlands as nature-based climate solutions to fight climate change. This includes quantifying the net ecosystem carbon balance (NECB) of four types of wetlands under natural conditions (open bog, forested bog, treed swamp, and coastal marsh) to help prioritizing the protection and conservation of areas with the strongest capacity to mitigate climate change. We will also quantify the NECB of the same wetland types under disturbed conditions as knowledge about the impacts of anthropogenic disturbances on the carbon balances of these wetlands. This comparison between natural and disturbed conditions will help our partners (Ministère de l’Environnement, de la Lutte contre le changement climatique, de la Faune et des Parcs (MELCCFP), Ducks Unlimited Canada and Nature Conservancy Canada - Québec) to support decisions for carbon stocks conservation, reduction of greenhouse gas emissions, and optimization of carbon sequestration in soils and biomass.\nThe NECB approach integrates land-atmosphere gas exchange (i.e., vertical fluxes), carbon accumulation in soils and biomass, and lateral carbon export (i.e., lateral fluxes) in its various forms. This will be realized through a watershed-scale continuum approach. The support of the Quebec government in this project request is significant because the proposed research will have concrete implications through conservation and land-use practices not only for Quebec but also for Canada.",
-    "crumbs": [
-      "Documentation",
-      "Home"
-    ]
-  },
-  {
-    "objectID": "data.html#field-sites",
-    "href": "data.html#field-sites",
-    "title": "Field Sites & Data",
-    "section": "Field Sites",
-    "text": "Field Sites\nThis web-app shows the sites where we operate Eddy Covariance towers and Flux Chamber sites in wetlands across southern Quebec.\n\nClick the points to sites to see more information.\n\n\n\n&lt;p&gt;\nYour browser does not support iframes.\n&lt;/p&gt;\n&lt;p&gt;\n\nView map in separate window\n\nLac Saint-Pierre disturbed marsh (UQAM1)\n\n\n\nA flux tower was installed in summer 2024\n\nmore info to come\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMore documentation related to maintenance procedures for our sites can be found here."
-  },
-  {
-    "objectID": "documentation.html",
-    "href": "documentation.html",
-    "title": "Documentation",
-    "section": "",
-    "text": "This page is intended to serve as a catchall with general information for the project."
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "Outreach and News",
-    "section": "",
-    "text": "The team set up a platform for the first eddy covariance flux tower at a disturbed marsh site near Lac Saint-Pierre in late June."
-  },
-  {
-    "objectID": "news.html#section",
-    "href": "news.html#section",
-    "title": "Outreach and News",
-    "section": "",
-    "text": "The team set up a platform for the first eddy covariance flux tower at a disturbed marsh site near Lac Saint-Pierre in late June."
-  },
-  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
@@ -136,5 +97,44 @@
       "Documentation",
       "People"
     ]
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Outreach and News",
+    "section": "",
+    "text": "Steps towards our first flux tower\n\n\n\n\n\n\nnews\n\n\nflux tower\n\n\n\n\n\n\n\n\n\nJun 28, 2024\n\n\nMartina Schlaipfer\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "documentation.html",
+    "href": "documentation.html",
+    "title": "Documentation",
+    "section": "",
+    "text": "This page is intended to serve as a catchall with general information for the project."
+  },
+  {
+    "objectID": "data.html#field-sites",
+    "href": "data.html#field-sites",
+    "title": "Field Sites & Data",
+    "section": "Field Sites",
+    "text": "Field Sites\nThis web-app shows the sites where we operate Eddy Covariance towers and Flux Chamber sites in wetlands across southern Quebec.\n\nClick the points to sites to see more information.\n\n\n\n&lt;p&gt;\nYour browser does not support iframes.\n&lt;/p&gt;\n&lt;p&gt;\n\nView map in separate window\n\nLac Saint-Pierre disturbed marsh (UQAM1)\n\n\n\nA flux tower was installed in summer 2024\n\nmore info to come\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMore documentation related to maintenance procedures for our sites can be found here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CARBONIQUE - CARBON cycling In QUEbec’s wetlands",
+    "section": "",
+    "text": "Contact Information\nDr. Sara Knox\nsara.knox@mcgill.ca\nThe conservation of wetlands to prevent the destruction and degradation of important carbon stocks, as well as the recognition of the role of ecosystems in climate change mitigation and adaptation, are priorities set by the governments of Quebec and Canada.\nThis project aims to improve understanding the carbon sequestration capacity of key wetland types across Canada to better quantify the role of wetlands as nature-based climate solutions to fight climate change. This includes quantifying the net ecosystem carbon balance (NECB) of four types of wetlands under natural conditions (open bog, forested bog, treed swamp, and coastal marsh) to help prioritizing the protection and conservation of areas with the strongest capacity to mitigate climate change. We will also quantify the NECB of the same wetland types under disturbed conditions as knowledge about the impacts of anthropogenic disturbances on the carbon balances of these wetlands. This comparison between natural and disturbed conditions will help our partners (Ministère de l’Environnement, de la Lutte contre le changement climatique, de la Faune et des Parcs (MELCCFP), Ducks Unlimited Canada and Nature Conservancy Canada - Québec) to support decisions for carbon stocks conservation, reduction of greenhouse gas emissions, and optimization of carbon sequestration in soils and biomass.\nThe NECB approach integrates land-atmosphere gas exchange (i.e., vertical fluxes), carbon accumulation in soils and biomass, and lateral carbon export (i.e., lateral fluxes) in its various forms. This will be realized through a watershed-scale continuum approach. The support of the Quebec government in this project request is significant because the proposed research will have concrete implications through conservation and land-use practices not only for Quebec but also for Canada.",
+    "crumbs": [
+      "Documentation",
+      "Home"
+    ]
+  },
+  {
+    "objectID": "posts/2024-06_plateform/index.html",
+    "href": "posts/2024-06_plateform/index.html",
+    "title": "Steps towards our first flux tower",
+    "section": "",
+    "text": "The team set up a platform for the first eddy covariance flux tower at a disturbed marsh site near Lac Saint-Pierre in late June."
   }
 ]

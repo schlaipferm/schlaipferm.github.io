@@ -1,0 +1,21 @@
+---
+title: "Steps towards our first flux tower"
+author: "Martina Schlaipfer"
+date: "2024-06-28"
+categories: [news,flux tower]
+image: "IMG_20240626_170821087.jpg"
+---
+
+The team set up a platform for the first eddy covariance flux tower at a disturbed marsh site near Lac Saint-Pierre in late June.
+
+::: {layout-nrow=2}
+
+![](IMG_20240626_170821087.jpg)
+
+![](IMG_20240627_145801849.jpg)
+
+![](IMG_20240626_123232381.jpg)
+
+![](IMG_20240627_112443909.jpg)
+
+:::
