@@ -55,6 +55,45 @@
     ]
   },
   {
+    "objectID": "posts/2024-06_platform/index.html",
+    "href": "posts/2024-06_platform/index.html",
+    "title": "Steps towards our first flux tower",
+    "section": "",
+    "text": "The team set up a platform for the first eddy covariance flux tower at a disturbed marsh site near Lac Saint-Pierre in late June."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec",
+    "section": "",
+    "text": "French text / French figure?",
+    "crumbs": [
+      "Documentation",
+      "Accueil"
+    ]
+  },
+  {
+    "objectID": "data.html#sites-de-terrain",
+    "href": "data.html#sites-de-terrain",
+    "title": "Sites de terrain & données",
+    "section": "Sites de terrain",
+    "text": "Sites de terrain\nCette information est uniquement disponible en anglais en ce moment. Veuillez voir ici : https://schlaipferm.github.io/en/data.html  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlus de documentation à propos les procédures de maintenance de nos sites peut être trouvée ici."
+  },
+  {
+    "objectID": "documentation.html",
+    "href": "documentation.html",
+    "title": "Documentation",
+    "section": "",
+    "text": "La documentation est uniquement disponible en anglais. Veuillez voir ici : https://schlaipferm.github.io/en/documentation.html"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Communications et Actualités",
+    "section": "",
+    "text": "Cette information est uniquement disponible en anglais en ce moment. Veuillez voir ici : https://schlaipferm.github.io/en/news.html"
+  },
+  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "Équipe",
@@ -99,42 +138,10 @@
     ]
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "Communications et Actualités",
+    "objectID": "posts/2024-07_uqam1/index.html",
+    "href": "posts/2024-07_uqam1/index.html",
+    "title": "Our UQAM1 flux tower is operational",
     "section": "",
-    "text": "Cette information est uniquement disponible en anglais en ce moment. Veuillez voir ici : https://schlaipferm.github.io/en/news.html"
-  },
-  {
-    "objectID": "documentation.html",
-    "href": "documentation.html",
-    "title": "Documentation",
-    "section": "",
-    "text": "La documentation est uniquement disponible en anglais. Veuillez voir ici : https://schlaipferm.github.io/en/documentation.html"
-  },
-  {
-    "objectID": "data.html#sites-de-terrain",
-    "href": "data.html#sites-de-terrain",
-    "title": "Sites de terrain & données",
-    "section": "Sites de terrain",
-    "text": "Sites de terrain\nCette information est uniquement disponible en anglais en ce moment. Veuillez voir ici : https://schlaipferm.github.io/en/data.html  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlus de documentation à propos les procédures de maintenance de nos sites peut être trouvée ici."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec",
-    "section": "",
-    "text": "French text / French figure?",
-    "crumbs": [
-      "Documentation",
-      "Accueil"
-    ]
-  },
-  {
-    "objectID": "posts/2024-06_platform/index.html",
-    "href": "posts/2024-06_platform/index.html",
-    "title": "Steps towards our first flux tower",
-    "section": "",
-    "text": "The team set up a platform for the first eddy covariance flux tower at a disturbed marsh site near Lac Saint-Pierre in late June."
+    "text": "This week our fantastic team under the lead of Olaf Kolle and David Trejo set up our first eddy covariance flux tower at a disturbed marsh site near Lac Saint-Pierre. The site is now operational and real-time photos of the site can be accessed here: https://phenocam.nau.edu/webcam/sites/lspdisturbedmarsh/"
   }
 ]
