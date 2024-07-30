@@ -300,7 +300,7 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 :::
 ::::
 
-:::: {layout-nrow=1}
+:::: {.columns}
 ::: {.column width="50%"}
 
 **Didier Philippo**

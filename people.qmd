@@ -300,7 +300,7 @@ texte
 :::
 ::::
 
-:::: {layout-nrow=1}
+:::: {.columns}
 ::: {.column width="50%"}
 
 **Didier Philippo**
