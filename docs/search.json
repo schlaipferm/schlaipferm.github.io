@@ -80,6 +80,20 @@
     "text": "Sites de terrain\nCette information est uniquement disponible en anglais en ce moment. Veuillez voir ici : https://schlaipferm.github.io/en/data.html  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlus de documentation à propos les procédures de maintenance de nos sites peut être trouvée ici."
   },
   {
+    "objectID": "acknowledgement.html",
+    "href": "acknowledgement.html",
+    "title": "Territorial and Cultural Acknowledgement",
+    "section": "",
+    "text": "The Université du Québec à Montréal as well as the Université de Montréal and McGill University are located on the traditional, ancestral, and unceded territory of the Kanien’kehá:ka (Mohawk) Nation. Laval University is on the traditional and unceded territory of the Abenaki and Wabenaki Confederacy and the Wolastoqiyik (Maliseet)\nThis statement is based on the territorial and cultural acknowledgement statement of the Micromet Lab at the University of British Columbia."
+  },
+  {
+    "objectID": "acknowledgement.html#field-sites",
+    "href": "acknowledgement.html#field-sites",
+    "title": "Territorial and Cultural Acknowledgement",
+    "section": "Field Sites",
+    "text": "Field Sites\nOur field sites are located in the Statl̕əẃ (Sto:lo) River Delta (aka the Fraser River Delta). This map below shows the overlapping territories and conveys the multiplicity of occupancy of First Nations wh in and around the Statl̕əẃ delta. This area encompass the traditional territories of a number of First Nations, including the:\n:::: {.columns}\n\n\nxʷməθkʷəy̓əm\nStó:lō\nsc̓əwaθenaɁɬ təməxʷ (Tsawwassen)\nkwantlen\nSemiahmoo\nStz’uminus\nÁ,LEṈENEȻ ȽTE (W̱SÁNEĆ)\nsq̓əc̓iy̓aɁɬ təməxʷ (Katzie)\nAnd others\n\n\n:::{.column width=“45%”}\n\n\n:::\n::::"
+  },
+  {
     "objectID": "documentation.html",
     "href": "documentation.html",
     "title": "Documentation",
@@ -98,7 +112,7 @@
     "href": "people.html",
     "title": "Équipe",
     "section": "",
-    "text": "Nom\nDr. Michelle Garneau\n\n\nCourriel\ngarneau.michelle@uqam.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nDr. Sara Helen Knox\n\n\nCourriel\nsara.knox@mcgill.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nDr. Oliver Sonnentag\n\n\nCourriel\noliver.sonnentag@umontreal.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nDr. Vincent Maire\n\n\nCourriel\nVincent.Maire@uqtr.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nDr. Alexandre Roy\n\n\nCourriel\nAlexandre.Roy@uqtr.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nDr. Marc-André Bourgault\n\n\nCourriel\nMarc-Andre.Bourgault@ggr.ulaval.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nDr. Paul A. del Giorgio\n\n\nCourriel\ndel_giorgio.paul@uqam.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nDr. Evelyne Thiffault\n\n\nCourriel\nEvelyne.Thiffault@sbf.ulaval.ca\n\n\n\n\n\n\ntexte",
+    "text": "Nom\nDr. Michelle Garneau\n\n\nCourriel\ngarneau.michelle@uqam.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nDr. Sara Helen Knox\n\n\nCourriel\nsara.knox@mcgill.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nDr. Oliver Sonnentag\n\n\nCourriel\noliver.sonnentag@umontreal.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nDr. Vincent Maire\n\n\nCourriel\nVincent.Maire@uqtr.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nDr. Alexandre Roy\n\n\nCourriel\nAlexandre.Roy@uqtr.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nDr. Marc-André Bourgault\n\n\nCourriel\nMarc-Andre.Bourgault@ggr.ulaval.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nDr. Paul A. del Giorgio\n\n\nCourriel\ndel_giorgio.paul@uqam.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nDr. Evelyne Thiffault\n\n\nCourriel\nEvelyne.Thiffault@sbf.ulaval.ca\n\n\n\n\n\n\n\ntexte",
     "crumbs": [
       "Documentation",
       "Équipe"
@@ -109,7 +123,7 @@
     "href": "people.html#chercheurs",
     "title": "Équipe",
     "section": "",
-    "text": "Nom\nDr. Michelle Garneau\n\n\nCourriel\ngarneau.michelle@uqam.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nDr. Sara Helen Knox\n\n\nCourriel\nsara.knox@mcgill.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nDr. Oliver Sonnentag\n\n\nCourriel\noliver.sonnentag@umontreal.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nDr. Vincent Maire\n\n\nCourriel\nVincent.Maire@uqtr.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nDr. Alexandre Roy\n\n\nCourriel\nAlexandre.Roy@uqtr.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nDr. Marc-André Bourgault\n\n\nCourriel\nMarc-Andre.Bourgault@ggr.ulaval.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nDr. Paul A. del Giorgio\n\n\nCourriel\ndel_giorgio.paul@uqam.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nDr. Evelyne Thiffault\n\n\nCourriel\nEvelyne.Thiffault@sbf.ulaval.ca\n\n\n\n\n\n\ntexte",
+    "text": "Nom\nDr. Michelle Garneau\n\n\nCourriel\ngarneau.michelle@uqam.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nDr. Sara Helen Knox\n\n\nCourriel\nsara.knox@mcgill.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nDr. Oliver Sonnentag\n\n\nCourriel\noliver.sonnentag@umontreal.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nDr. Vincent Maire\n\n\nCourriel\nVincent.Maire@uqtr.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nDr. Alexandre Roy\n\n\nCourriel\nAlexandre.Roy@uqtr.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nDr. Marc-André Bourgault\n\n\nCourriel\nMarc-Andre.Bourgault@ggr.ulaval.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nDr. Paul A. del Giorgio\n\n\nCourriel\ndel_giorgio.paul@uqam.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nDr. Evelyne Thiffault\n\n\nCourriel\nEvelyne.Thiffault@sbf.ulaval.ca\n\n\n\n\n\n\n\ntexte",
     "crumbs": [
       "Documentation",
       "Équipe"
@@ -120,7 +134,7 @@
     "href": "people.html#professionnels",
     "title": "Équipe",
     "section": "Professionnels",
-    "text": "Professionnels\n\n\n\n\n\n\n\nNom\nDavid Trejo\n\n\nCourriel\ntrejo_cancino.david_ulises@uqam.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nJean-Benoit Leblond Chouinard\n\n\nCourriel\njean-benoit.leblond-chouinard.1@ulaval.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nMartina Schlaipfer\n\n\nCourriel\nschlaipfer.martina@uqam.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nLéonie Perrier\n\n\nCourriel\nperrier.leonie@uqam.ca\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\nNom\nOlaf Kolle\n\n\nCourriel\noeekolle@outlook.de\n\n\n\n\n\n\ntexte",
+    "text": "Professionnels\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nDavid Trejo\n\n\nCourriel\ntrejo_cancino.david_ulises@uqam.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nJean-Benoit Leblond Chouinard\n\n\nCourriel\njean-benoit.leblond-chouinard.1@ulaval.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nMartina Schlaipfer\n\n\nCourriel\nschlaipfer.martina@uqam.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nLéonie Perrier\n\n\nCourriel\nperrier.leonie@uqam.ca\n\n\n\n\n\n\n\ntexte\n\n\n\n\n\n\n\n\n\n\n\n\n\nNom\nOlaf Kolle\n\n\nCourriel\noeekolle@outlook.de\n\n\n\n\n\n\n\ntexte",
     "crumbs": [
       "Documentation",
       "Équipe"
@@ -131,7 +145,7 @@
     "href": "people.html#étudiants",
     "title": "Équipe",
     "section": "Étudiants",
-    "text": "Étudiants\n\n\n\nJoannie Beaulne\n\n(Doctorat en sciences forestières)\n\n\n\n\n\nJoannie Boulard\n\n(Maitrise en biologie)\n\n\n\n\n\n\n\n\nDidier Philippo\n\n(Maitrise en biologie)",
+    "text": "Étudiants\n\n\n\n\n\n\n\nJoannie Beaulne\n\n(Doctorat en sciences forestières)\n\n\n\n\n\n\nJoanie Boulard\n\n(Maitrise en biologie)\n\n\n\n\n\n\n\n\n\nDidier Philippo\n\n(Maitrise en biologie)",
     "crumbs": [
       "Documentation",
       "Équipe"

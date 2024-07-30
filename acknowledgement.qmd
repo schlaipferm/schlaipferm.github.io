@@ -1,0 +1,44 @@
+---
+title: "Territorial and Cultural Acknowledgement"
+format:
+  html:
+    css: styles.css
+echo: false
+---
+
+The Université du Québec à Montréal as well as the Université de Montréal and McGill University are located on the traditional, ancestral, and unceded territory of the Kanien’kehá:ka (Mohawk) Nation. Laval University is on the traditional and unceded territory of the Abenaki and Wabenaki Confederacy and the Wolastoqiyik (Maliseet)
+
+* It is essential to recognize Indigenous territories and Indigenous sovereignty, especially within the context of field based research.
+* To learn more about the Indigenous communities where you live and work, check out [native-land.ca](https://native-land.ca).
+
+This statement is based on the <a href="https://ubc-micromet.github.io/acknowledgement.html">territorial and cultural acknowledgement statement of the Micromet Lab<a> at the University of British Columbia.
+
+## Field Sites
+
+Our field sites are located in the Statl̕əẃ (Sto:lo) River Delta (aka the Fraser River Delta). This map below shows the overlapping territories and conveys the multiplicity of occupancy of First Nations wh in and around the Statl̕əẃ delta.  This area encompass the traditional territories of a number of First Nations, including the:
+
+  :::: {.columns}
+
+:::{.column width="55%"}
+
+
+* xʷməθkʷəy̓əm
+* Stó:lō
+* sc̓əwaθenaɁɬ təməxʷ (Tsawwassen)
+* kwantlen
+* Semiahmoo
+* Stz’uminus
+* Á,LEṈENEȻ ȽTE (W̱SÁNEĆ)
+* sq̓əc̓iy̓aɁɬ təməxʷ (Katzie)
+* And others
+
+:::
+
+  :::{.column width="45%"}
+
+<iframe src="https://native-land.ca/api/embed/embed.html?maps=territories&&position=&position=49.1318,-123.0015" style="height:300px; border:none;"></iframe>
+
+
+  :::
+
+  ::::

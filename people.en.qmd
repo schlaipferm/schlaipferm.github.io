@@ -4,13 +4,14 @@ sidebar: home
 ---
 ## Principal Investigators
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
 
-<!--![](images/headshots/Knox-oval.png){width=85%}
--->
+:::{.column width="50%"}
+
+![](images/team/garneau_michelle.jpg)
+
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
  |
 -----|:-----
@@ -25,13 +26,13 @@ Dr. Michelle Garneau initiated the project and built the strong collaborations w
 
 ---
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
 <!--![](images/headshots/ketler-oval.png){width=85%}
 -->
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
 |
 -----|:-----
@@ -46,13 +47,13 @@ Dr. Sara Knox is an Assistant Professor in Geography at McGill University (and f
 
 ---
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
 <!--![](images/headshots/zoran-nesic-oval.png){width=85%}
 -->
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
  |
 -----|:-----
@@ -67,13 +68,13 @@ Dr. Oliver Sonnentag is an Assistant Professor and holds the Canada Research Cha
 
 ---
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
 <!--![](images/headshots/zoran-nesic-oval.png){width=85%}
 -->
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
  |
 -----|:-----
@@ -88,13 +89,13 @@ Dr. Vincent Maire is a Professor in Environmental Sciences at the Université du
 
 ---
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
 <!--![](images/headshots/zoran-nesic-oval.png){width=85%}
 -->
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
  |
 -----|:-----
@@ -109,13 +110,13 @@ Dr. Alexandre Roy, is an Assistant Professor at Université du Québec à Trois-
 
 ---
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
 <!--![](images/headshots/zoran-nesic-oval.png){width=85%}
 -->
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
  |
 -----|:-----
@@ -130,13 +131,13 @@ Dr. Marc-André Bourgault is an Assistant Professor in the Department of Geograp
 
 ---
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
 <!--![](images/headshots/zoran-nesic-oval.png){width=85%}
 -->
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
  |
 -----|:-----
@@ -151,13 +152,13 @@ Dr. Paul A. del Giorgio is a Full Professor at Université du Québec à Montré
 
 ---
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
 <!--![](images/headshots/zoran-nesic-oval.png){width=85%}
 -->
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
  |
 -----|:-----
@@ -174,13 +175,12 @@ Dr. Evelyne Thiffault is an Associate Professor in forest ecology and management
 
 ## Research Assistants
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
+![](images/team/trejo_david.jpg)
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
  |
 -----|:-----
@@ -195,13 +195,13 @@ As a Research Assistant at UQAM, David Trejo tackles vital tasks in the CARBONIQ
 
 ---
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
 <!--![](images/headshots/zoran-nesic-oval.png){width=85%}
 -->
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
  |
 -----|:-----
@@ -216,13 +216,13 @@ Jean-Benoit Leblond Chouinard works as a research assistant at Université Laval
 
 ---
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
+![](images/team/schlaipfer_martina.jpg)
+
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
  |
 -----|:-----
@@ -237,13 +237,13 @@ Martina Schlaipfer is the scientific coordinator for the CARBONIQUE project. Bef
 
 ---
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
+![](images/team/perrier_leonie.png)
+
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
  |
 -----|:-----
@@ -258,13 +258,13 @@ Léonie Perrier manages field logistics, budgets, progress reports and provides 
 
 ---
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
 <!--![](images/headshots/zoran-nesic-oval.png){width=85%}
 -->
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
  |
 -----|:-----
@@ -281,22 +281,22 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 
 ## Students
 
-:::: {.columns}
+:::: {layout-nrow=1}
 ::: {.column width="50%}
 
 **Joannie Beaulne**
 : *(PhD Student)*
 
-<!--![](images/headshots/darian-oval.png){width=45%}
--->
+![](images/team/beaulne_joannie.jpg)
+
 :::
 ::: {.column width="50%"}
 
-**Joannie Boulard**
+**Joanie Boulard**
 : *(M.Sc. Student)*
 
-<!--![](images/headshots/litman-oval.png){width=45%}
--->
+![](images/team/boulard_joanie.jpg)
+
 :::
 ::::
 
@@ -306,8 +306,8 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 **Didier Philippo**
 : *(M.Sc. Student)*
 
-<!--![](images/headshots/satriawan-oval.png){width=45%}
--->
+![](images/team/philippo_didier.jpg)
+
 
 :::
 ::::
