@@ -306,7 +306,7 @@ texte
 **Didier Philippo**
 : *(Maitrise en biologie)*
 
-![](images/team/philippo_didier.jpg){width=45%}
+![](images/team/philippo_didier.jpg)
 
 
 :::
