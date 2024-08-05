@@ -25,7 +25,7 @@ This web-app shows the sites where we operate Eddy Covariance towers and Flux Ch
  <a href="https://carboni-que.github.io/FieldSiteMaps/">View map in separate window</a> 
 
 ### Lac Saint-Pierre disturbed marsh (UQAM1)
-:::: {.columns}
+:::: {layout-nrow=1}
 
 :::{.column width="65%"}
 
@@ -36,7 +36,7 @@ This web-app shows the sites where we operate Eddy Covariance towers and Flux Ch
 
 ::: {.column width="35%"}
 
-![](./images/site-images/uqam1-tower.jpg){fig-align="right" width=90%}
+![](./images/site-images/uqam1-tower.jpg){fig-align="right" width=35%}
 
 :::
 
