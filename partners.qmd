@@ -3,72 +3,68 @@ title: "Partenaires"
 sidebar: accueil
 ---
 
-\
+## Universités
 
-:::: {.columns}
+::: {layout-nrow=2}
 
-:::{.column width="20%"}
+<a href="https://uqam.ca/" target="_blank">![](./images/logos/uqam.png)</a>
 
-![](./images/logos/uqam.png){fig-align="right" width=90%}
+<a href="https://www.mcgill.ca/fr" target="_blank">![](./images/logos/McGill.png)</a>
 
-::: 
+<a href="https://www.umontreal.ca/" target="_blank">![](./images/logos/UdM.png)</a>
 
-::: {.column width="20%"}
+<a href="https://www.ulaval.ca/" target="_blank">![](./images/logos/ULaval.png)</a>
 
-![](./images/logos/McGill.png){fig-align="right" width=90%}
-
+<a href="https://www.uqtr.ca/" target="_blank">![](./images/logos/UQTR.png)</a>
 :::
 
-:::{.column width="20%"}
+## Gouvernement
 
-![](./images/logos/UdM.png){fig-align="right" width=90%}
+:::: {layout-nrow=1}
 
-::: 
+:::{.column width="33%"}
+<a href="https://www.environnement.gouv.qc.ca/" target="_blank">![](./images/logos/MELCCFP.jpg)
+:::
 
-:::{.column width="20%"}
+:::{.column width="33%"}
+![](./images/logos/plan-verte.png)</a>
+:::
 
-![](./images/logos/ULaval.png){fig-align="right" width=90%}
-
-::: 
-
-:::{.column width="20%"}
-
-![](./images/logos/UQTR.png){fig-align="right" width=90%}
-
-::: 
+:::{.column width="33%"}
+:::
 
 ::::
 
-:::: {.columns}
+## Organisations de conservation à but non lucratif
 
-:::{.column width="20%"}
+:::: {layout-nrow=1}
 
-![](./images/logos/MELCCFP.jpg){fig-align="right" width=90%}
+:::{.column width="33%"}
 
-::: 
+<a href="https://www.natureconservancy.ca/fr/" target="_blank">![](./images/logos/CNC.jpg)</a>
+:::
+:::{.column width="33%"}
 
-::: {.column width="20%"}
-
-![](./images/logos/plan-verte.png){fig-align="right" width=90%}
-
+<a href="https://www.canards.ca/" target="_blank">![](./images/logos/CIC.jpg)</a>
 :::
 
-:::{.column width="20%"}
+:::{.column width="33%"}
+:::
 
-![](./images/logos/CNC.jpg){fig-align="right" width=90%}
+:::: 
 
-::: 
+## Externe
 
-:::{.column width="20%"}
+:::: {layout-nrow=1}
+:::{.column width="33%"}
 
-![](./images/logos/CIC.jpg){fig-align="right" width=90%}
+<a href="https://www.sarcel.com/" target="_blank">![](./images/logos/SARCEL.png)</a>
+:::
 
-::: 
+:::{.column width="33%"}
+:::
 
-:::{.column width="20%"}
-
-![](./images/logos/SARCEL.png){fig-align="right" width=90%}
-
-::: 
+:::{.column width="33%"}
+:::
 
 ::::
