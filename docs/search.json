@@ -62,22 +62,22 @@
     "text": "The team set up a platform for the first eddy covariance flux tower at a disturbed marsh site near Lac Saint-Pierre in late June."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec",
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Rejoignez-nous!",
     "section": "",
-    "text": "French text / French figure?",
+    "text": "Ce site sera mis à jour avec les projets de maîtrise et de doctorat et ainsi que des postes PostDoc dès qu’ils seront disponibles.",
     "crumbs": [
       "Documentation",
-      "Accueil"
+      "Rejoignez-nous"
     ]
   },
   {
-    "objectID": "data.html#sites-de-terrain",
-    "href": "data.html#sites-de-terrain",
-    "title": "Sites de terrain & données",
-    "section": "Sites de terrain",
-    "text": "Sites de terrain\nCette information est uniquement disponible en anglais en ce moment. Veuillez voir ici : https://schlaipferm.github.io/en/data.html  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlus de documentation à propos les procédures de maintenance de nos sites peut être trouvée ici."
+    "objectID": "documentation.html",
+    "href": "documentation.html",
+    "title": "Documentation",
+    "section": "",
+    "text": "La documentation est uniquement disponible en anglais. Veuillez voir ici : https://schlaipferm.github.io/en/documentation.html"
   },
   {
     "objectID": "acknowledgement.html",
@@ -94,11 +94,22 @@
     "text": "Field Sites\nOur field sites are located in the Statl̕əẃ (Sto:lo) River Delta (aka the Fraser River Delta). This map below shows the overlapping territories and conveys the multiplicity of occupancy of First Nations wh in and around the Statl̕əẃ delta. This area encompass the traditional territories of a number of First Nations, including the:\n:::: {.columns}\n\n\nxʷməθkʷəy̓əm\nStó:lō\nsc̓əwaθenaɁɬ təməxʷ (Tsawwassen)\nkwantlen\nSemiahmoo\nStz’uminus\nÁ,LEṈENEȻ ȽTE (W̱SÁNEĆ)\nsq̓əc̓iy̓aɁɬ təməxʷ (Katzie)\nAnd others\n\n\n:::{.column width=“45%”}\n\n\n:::\n::::"
   },
   {
-    "objectID": "documentation.html",
-    "href": "documentation.html",
-    "title": "Documentation",
+    "objectID": "data.html#sites-de-terrain",
+    "href": "data.html#sites-de-terrain",
+    "title": "Sites de terrain & données",
+    "section": "Sites de terrain",
+    "text": "Sites de terrain\nCette information est uniquement disponible en anglais en ce moment. Veuillez voir ici : https://schlaipferm.github.io/en/data.html  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlus de documentation à propos les procédures de maintenance de nos sites peut être trouvée ici."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec",
     "section": "",
-    "text": "La documentation est uniquement disponible en anglais. Veuillez voir ici : https://schlaipferm.github.io/en/documentation.html"
+    "text": "Coordonnées\nDr. Sara Knox\nsara.knox@mcgill.ca\nFrench text / French figure?",
+    "crumbs": [
+      "Documentation",
+      "Accueil"
+    ]
   },
   {
     "objectID": "news.html",
