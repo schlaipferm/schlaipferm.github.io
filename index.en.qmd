@@ -20,7 +20,7 @@ the governments of Quebec and Canada.
 This project aims to improve understanding the carbon sequestration capacity of key wetland types across
 Canada to better quantify the role of wetlands as nature-based climate solutions to fight climate change. This
 includes quantifying the net ecosystem carbon balance (NECB) of four types of wetlands under natural
-conditions (open bog, forested bog, treed swamp, and coastal marsh) to help prioritizing the protection and
+conditions (open bog, treed bog, treed swamp, and coastal marsh) to help prioritizing the protection and
 conservation of areas with the strongest capacity to mitigate climate change. We will also quantify the NECB
 of the same wetland types under disturbed conditions as knowledge about the impacts of anthropogenic
 disturbances on the carbon balances of these wetlands. This comparison between natural and disturbed
