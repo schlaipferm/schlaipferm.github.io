@@ -50,8 +50,8 @@ Dr. Sara Knox is an Assistant Professor in Geography at McGill University (and f
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
+![](images/team/sonnentag_oliver.jpg)
+
 :::
 ::: {.column width="50%"}
 

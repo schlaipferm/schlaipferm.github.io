@@ -6,9 +6,9 @@ sidebar: home
 ::: {.column-margin}
 **Contact Information**
 
-Dr. Sara Knox
+Dr. Michelle Garneau
 
-sara.knox@mcgill.ca
+garneau.michelle@uqam.ca
 
 :::
 
