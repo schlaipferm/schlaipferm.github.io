@@ -173,7 +173,7 @@ Dr. Evelyne Thiffault is an Associate Professor in forest ecology and management
 
 ---
 
-## Research Assistants
+## Technical and managerial team
 
 :::: {layout-nrow=1}
 :::{.column width="50%"}
