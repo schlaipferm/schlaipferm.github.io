@@ -28,8 +28,8 @@ texte
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-<!--![](images/headshots/ketler-oval.png)
--->
+![](images/team/knox_sara.jpg)
+
 :::
 ::: {.column width="50%"}
 

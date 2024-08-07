@@ -29,8 +29,8 @@ Dr. Michelle Garneau initiated the project and built the strong collaborations w
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-<!--![](images/headshots/ketler-oval.png){width=85%}
--->
+![](images/team/knox_sara.jpg)
+
 :::
 ::: {.column width="50%"}
 
