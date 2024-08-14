@@ -71,8 +71,8 @@ Dr. Oliver Sonnentag is an Assistant Professor and holds the Canada Research Cha
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
+![](images/team/maire_vincent.jpeg)
+
 :::
 ::: {.column width="50%"}
 

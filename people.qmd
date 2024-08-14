@@ -70,8 +70,8 @@ texte
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png)
--->
+![](images/team/maire_vincent.jpeg)
+
 :::
 ::: {.column width="50%"}
 
