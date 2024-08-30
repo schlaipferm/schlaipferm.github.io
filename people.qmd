@@ -133,8 +133,8 @@ texte
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png)
--->
+![](images/team/del_giorgio_paul.jpg)
+
 :::
 ::: {.column width="50%"}
 
