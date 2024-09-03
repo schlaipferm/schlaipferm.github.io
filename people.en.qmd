@@ -155,8 +155,8 @@ Dr. Paul A. del Giorgio is a Full Professor at Université du Québec à Montré
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
+![](images/team/thiffault_evelyne.png)
+
 :::
 ::: {.column width="50%"}
 
