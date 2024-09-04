@@ -261,8 +261,8 @@ texte
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png)
--->
+![](images/team/kolle_olaf.jpg)
+
 :::
 ::: {.column width="50%"}
 

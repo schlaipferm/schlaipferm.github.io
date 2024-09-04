@@ -260,8 +260,8 @@ Léonie Perrier manages field logistics, budgets, progress reports and provides 
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
+![](images/team/kolle_olaf.jpg)
+
 :::
 ::: {.column width="50%"}
 
