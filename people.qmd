@@ -275,7 +275,7 @@ Courriel|  oeekolle\@outlook.de
 ::: 
 ::::
 
-texte
+Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que scientifique invité à l'UQAM, grâce à son expertise en matière de terrain et d'instrumentation. Ses principales tâches consistent à concevoir et à mettre en œuvre l'ensemble des tours à covariance des turbulences (structure, protection contre la foudre, instrumentation, acquisition de données, accès à distance, mesures de sécurité) en collaboration avec les autres membres de l'équipe, qui apportent tous leurs compétences et leur expérience respectives. Il transmet également des connaissances à la nouvelle génération de chercheurs et au personnel technique.
 
 ---
 
