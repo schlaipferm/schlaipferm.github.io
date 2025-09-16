@@ -1,0 +1,50 @@
+---
+title: "3 more flux towers!"
+author: "Martina Schlaipfer"
+date: "2025-08-05"
+categories: [news,flux tower,lac saint-pierre,lac-à-la-tortue,bog,marsh,natural,restored,natural open bog,natural treed bog,restored marsh]
+image: "lsp_new_tower.jpg"
+title-block-banner: false
+---
+
+After a busy spring and early summer three more of our CARBONIQUE flux towers are operational. The locations of our flux towers in southern Quebec can be seen here:  <a href="https://carbonique.ca/FieldSiteMaps/">https://carbonique.ca/FieldSiteMaps/<a>
+
+Léonie, the amazing coordinator for both the C-Paleo Lab and the CARCLIQUE Research Chair, documented the team's efforts to set up the two towers at the natural bog sites at the Lac-à-la-Tortue peatland complex in March and April. The video can be watched via the 
+<a href="https://www.youtube.com/watch?v=H0BmmfVAthQ&ab_channel=C-PALEOLAB">C-Paleo Lab's YouTube channel<a>.
+
+Later in the spring work continued at the Lac Saint-Pierre restored marsh site, where our flux tower sits on top of a floating platform in the middle of the small pond that was created when the site was rewetted.
+
+::: {layout-nrow=1}
+
+![](lsp_restored_marsh_pond.jpg)
+
+:::
+
+All installations came with their own set of challenges (see photo evidence - snow, storms that toppled over solar panels and towers, lightning strikes!) and we could not be prouder of our incredible technical team for persisting through all of them!
+
+::: {layout-nrow=2}
+
+![](lat_snow.jpg)
+
+![](lsp_solar_panels.jpeg)
+
+![](lsp_toppled_tower.jpg)
+
+![](lat_uqam2_lightning.jpg)
+
+:::
+
+We would also like to thank our collaborators at UBC, Zoran Nesic and Rick Kettler, for their invaluable help and also extend our gratitude to TechnoPieux and Élite Échafaudage. Without their expertise these installations would not have been possible. Last but not least, a big thank you to all of the students and summer interns who came out to the field with us to make these installations feasible.
+
+Please have a look at the photos below for some more impressions of the new flux tower sites and the installation work.
+
+::: {layout-nrow=2}
+
+![](lat_uqam3_view.jpg)
+
+![](lat_uqam3.jpg)
+
+![](lsp_boat.jpg)
+
+![](lsp_tower_construction.jpg)
+:::

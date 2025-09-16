@@ -5,7 +5,7 @@
 parent_dir <- "C:/Users/SCHLAIPFER_M/Documents/GitHub"
 
 ## specify name of website
-project_dir <- "schlaipferm.github.io"
+project_dir <- "carboni-que.github.io"
 
 ##########################
 ##########################

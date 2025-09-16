@@ -1,1 +1,11 @@
 /* css styles */
+
+.wrapping-left {
+  float: left;
+  margin-right: 25px;
+}
+
+.wrapping-right {
+  float: right;
+  margin-left: 25px;
+}

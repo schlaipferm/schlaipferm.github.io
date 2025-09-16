@@ -1,0 +1,6 @@
+---
+title: "Fieldwork planning"
+sidebar: documentation_en
+---
+
+Find essential information for each site on our SharePoint.

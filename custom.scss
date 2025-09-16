@@ -1,8 +1,7 @@
 /*-- scss:defaults --*/
+// Base document colors
+$primary: #e6e6e6;
 
-// Navbar
-
-$navbar-bg: #325d88;
 
 // Fonts
 
@@ -19,3 +18,29 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;70
 @if $web-font-path {
   @import url("#{$web-font-path}");
 }
+
+//Navs
+
+.nav-link {
+       color: #3e3f3a !important;
+    }
+    
+.nav-link:hover{
+  color: white !important;
+}
+    
+.nav-link.active{
+  color: #8EC161 !important;
+}
+
+.aa-SubmitIcon {
+    color: #3e3f3a !important;
+}
+
+.aa-SubmitIcon:hover{
+  color: white !important;
+}
+
+.breadcrumb {
+        display: none;
+    }

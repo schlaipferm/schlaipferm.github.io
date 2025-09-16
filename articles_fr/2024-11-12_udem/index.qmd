@@ -1,0 +1,11 @@
+---
+title: "Communiqué de presse Université de Montréal"
+author: "Martina Schlaipfer"
+date: "2024-11-12"
+categories: [communiqué de presse,actualités,projet,udem]
+image: "Screenshot 2025-01-08 125050.png"
+---
+
+UdeMNouvelles, le canal officiel de l'information à l'Université de Montréal, informe de notre projet et du financement que l'UdeM a reçu pour celui-ci.
+
+![](//pdf/2024-11-12_UdeM_Nouvelles.pdf){width=100% height=800px}
