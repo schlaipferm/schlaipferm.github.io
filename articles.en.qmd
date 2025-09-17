@@ -1,0 +1,13 @@
+---
+title: "In the media"
+listing:
+  contents: articles
+  sort: "date desc"
+  type: default
+  categories: true
+sidebar: news
+---
+
+Please switch the website's language to French to see French language media coverage.
+
+For the full texts (downloadable PDFs) please click on the respective postings.

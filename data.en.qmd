@@ -6,12 +6,12 @@ title: "Field Sites & Data"
 ## Field Sites
 This web-app shows the sites where we operate Eddy Covariance towers and Flux Chamber sites in wetlands across southern Quebec.
 
-* Click the points to sites to see more information.
+Click the points to sites to see more information.
 
 <div style="overflow: hidden;
   padding-top: 75%;
   position: relative">
-  <iframe src="https://carboni-que.github.io/FieldSiteMaps/" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="https://www.carbonique.ca/FieldSiteMaps/" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -22,7 +22,7 @@ This web-app shows the sites where we operate Eddy Covariance towers and Flux Ch
  </iframe>
 </div>
 
- <a href="https://carboni-que.github.io/FieldSiteMaps/">View map in separate window</a> 
+ <a href="https://www.carbonique.ca/FieldSiteMaps/" target="_blank">View map in separate window</a> 
 
 ### Lac Saint-Pierre disturbed marsh (UQAM1)
 :::: {layout-nrow=1}
@@ -30,7 +30,8 @@ This web-app shows the sites where we operate Eddy Covariance towers and Flux Ch
 :::{.column width="65%"}
 
 * A flux tower was installed in summer 2024
-  - more info to come
+* Get an impression of the site conditions in near real-time on the <a href="https://phenocam.nau.edu/webcam/sites/lspdisturbedmarsh/">Phenocam Network website</a>
+* Data download for <a href="https://ameriflux.lbl.gov/sites/siteinfo/CA-CQ1">CA-CQ1</a> will be available in the future through Ameriflux
 
 ::: 
 
@@ -42,47 +43,65 @@ This web-app shows the sites where we operate Eddy Covariance towers and Flux Ch
 
 ::::
 
-<!-- ### Burns Bog 2 (BB2) -->
+### Lac Saint-Pierre restored marsh (MCGILL1)
+:::: {layout-nrow=1}
 
-<!-- :::: {.columns} -->
+:::{.column width="65%"}
 
-<!-- ::: {.column width="65%"} -->
+* A flux tower was installed in spring 2025 and became operational in early summer 2025
+* Data download for this flux tower will be available in the future through Ameriflux
 
-<!-- * [Data Preview Graph](https://ibis.geog.ubc.ca/~micromet/data/burnsbog2.html#) (CA-DB2) (2019 - *, Delta, BC, Canada) -->
-<!-- * Download Data for [CA-DB2](https://ameriflux.lbl.gov/sites/siteinfo/CA-DB2) will soon be available from Ameriflux. -->
-<!-- * Data from the web plots are available [here](https://ibis.geog.ubc.ca/~micromet/webdata/resources/csv/)  -->
-<!--   * prefix BB2. note that this is raw data – no filtering or QCQA. Database codes are available [here](https://ibis.geog.ubc.ca/~micromet/research/Burns-Bog/Database/BB.html). -->
-<!-- * [BB2 Site Photos](https://www.flickr.com/gp/188943790@N03/ny9Pa3) -->
+::: 
 
-<!-- :::  -->
+::: {.column width="35%"}
 
-<!-- ::: {.column width="35%"} -->
+![](./images/site-images/mcgill1-tower.jpg){fig-align="right" width=35%}
 
-<!-- ![](images/site-images/bb2-tower.jpg){fig-align="right" width=90%} -->
+:::
 
-<!-- ::: -->
+::::
 
-<!-- :::: -->
+### Lac-à-la-Tortue natural open bog (UQAM2)
+:::: {layout-nrow=1}
 
-<!-- ### Burns Bog Seedling (BBS) -->
+:::{.column width="65%"}
 
-<!-- :::: {.columns} -->
+* A flux tower was installed in spring 2025
+* The flux tower was struck by lightning briefly after the installation
+  - flux instruments were re-installed in July 2025 and the tower became fully operational again
+  - biomet sensors were working throughout
+* Get an impression of the site conditions in near real-time on the <a href="https://phenocam.nau.edu/webcam/sites/latnaturalopenbog/">Phenocam Network website</a>
+* Data download for this flux tower will be available in the future through Ameriflux
 
-<!-- ::: {.column width="65%"} -->
+::: 
 
-<!-- * Flux chambers were installed in spring 2023 -->
-<!-- * A temporary flux tower was installed in summer 2023 -->
-<!--   - more info to come -->
+::: {.column width="35%"}
 
-<!-- :::  -->
+![](./images/site-images/uqam2-tower.jpg){fig-align="right" width=35%}
 
-<!-- ::: {.column width="35%"} -->
+:::
 
-<!-- ![](images/site-images/bbs-tower.jpg){fig-align="right" width=90%} -->
+::::
 
-<!-- ::: -->
 
-<!-- :::: -->
+### Lac-à-la-Tortue natural treed bog (UQAM3)
+:::: {layout-nrow=1}
+
+:::{.column width="65%"}
+
+* A flux tower was installed in spring 2025
+* Get an impression of the site conditions in near real-time on the <a href="https://phenocam.nau.edu/webcam/sites/latnaturalforestedbog/">Phenocam Network website</a>
+* Data download for this flux tower will be available in the future through Ameriflux
+
+::: 
+
+::: {.column width="35%"}
+
+![](./images/site-images/uqam3-tower.jpg){fig-align="right" width=35%}
+
+:::
+
+::::
 
 <!-- ### Delta Salt Marsh (DSM) -->
 <!-- :::: {.columns} -->
@@ -133,4 +152,27 @@ This web-app shows the sites where we operate Eddy Covariance towers and Flux Ch
 <!-- ## Code and Documentation -->
 <!-- Our <a href="https://github.com/ubc-micromet">lab github</a> hosts code for flux processing, README docs for our lab, and various other bits of information. -->
 
-More documentation related to maintenance procedures for our sites can be found <a href="https://carboni-que.github.io/Documentation/">here</a>.
+More documentation related to maintenance procedures for our sites can be found <a href="https://www.carbonique.ca/en/documentation.html">here</a>.
+
+
+## Data
+
+This data visualization tool shows data recorded at our eddy covariance flux towers in southern Quebec.
+
+Please use the drop-down menus to select the site and variable you would like to see.
+
+<div style="overflow: hidden;
+  padding-top: 75%;
+  position: relative">
+  <iframe src="https://288-gic-rshiny.geog.mcgill.ca/knox/carbonique/" title="Processes" scrolling="yes" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+
+ <a href="https://288-gic-rshiny.geog.mcgill.ca/knox/carbonique/" target="_blank">View data visualization in separate window</a> 

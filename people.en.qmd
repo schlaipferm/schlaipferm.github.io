@@ -22,7 +22,28 @@ Email|  garneau.michelle\@uqam.ca
 ::: 
 ::::
 
-Dr. Michelle Garneau initiated the project and built the strong collaborations with the Quebec government and the two other partners over the past year. Dr. Garneau is a Full Professor at the Université du Québec à Montréal (UQAM), where she has successfully led several research projects using innovative methods to document the impact of climate variations on C sequestration through time and space. The research carried out by her group over the past 22 years was used as a basis to modify and improve the provincial “Loi sur les milieu humides et hydriques” (LMHH) (The Wetland Habitat Law) through the addition of a specific regulation for the conservation of C stocks in different types of wetlands in Quebec. She has been asked to lead the Quebec wetland research and climate mitigation program that has resulted in the present project.  
+Dr. Michelle Garneau initiated the project and built the strong collaborations with the Quebec government and the two other partners over the past year. Dr. Garneau is a Full Professor at the Université du Québec à Montréal (UQAM), where she has successfully led several research projects using innovative methods to document the impact of climate variations on C sequestration through time and space. The research carried out by her group over the past 25 years contributed to the development of the Act respecting the conservation of wetlands and bodies of water by recognizing the importance of the carbon sequestration function in wetlands and their conservation for climate change mitigation. She has been asked to lead the Quebec wetland research and climate mitigation program that has resulted in the present project.  
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
+![](images/team/davidson_scott.jpg)
+
+:::
+::: {.column width="50%"}
+
+|
+-----|:-----
+Name| Dr. Scott J. Davidson
+Email| davidson.scott_j\@uqam.ca
+<!--Office| PCMH B1100-->
+
+::: 
+::::
+
+Dr. Scott J. Davidson is an Assistant Professor of Wetland Carbon Dynamics at the Université du Québec à Montréal (UQAM) and leads the Wetland Resilience Research Group. His research investigates how wetlands across Arctic, boreal, alpine, and temperate regions respond to climate change, land use, and disturbance, with a focus on carbon cycling and greenhouse gas emissions. Dr. Davidson’s work combines field measurements, remote sensing, and ecosystem modelling to understand the resilience of wetlands and their role in climate regulation. He has made key contributions to advancing knowledge of how wetland conservation and restoration support climate mitigation and has engaged in international efforts to build research networks and community science initiatives. 
 
 ---
 
@@ -92,8 +113,8 @@ Dr. Vincent Maire is a Professor in Environmental Sciences at the Université du
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
+![](images/team/roy_alexandre.jpg)
+
 :::
 ::: {.column width="50%"}
 
@@ -113,8 +134,8 @@ Dr. Alexandre Roy, is an Assistant Professor at Université du Québec à Trois-
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
+![](images/team/bourgault_marc-andre.jpg)
+
 :::
 ::: {.column width="50%"}
 
@@ -178,6 +199,26 @@ Dr. Evelyne Thiffault is an Associate Professor in forest ecology and management
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
+![](images/team/umair_muhammad.jpg)
+:::
+::: {.column width="50%"}
+
+ |
+-----|:-----
+Name| Muhammad Umair
+Email| muhammad.umair.1\@umontreal.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+Muhammad Umair is a data scientist for the CARBONIQUE project. Before starting this position, he was a postdoctoral fellow at Université de Montreal (UdeM, <a href="https://atmosbios.com/" target="_blank">Atmosbios Lab</a>), where his work involved implementing the “stomatal optimization based on xylem hydraulics” parameterization in CLASSIC (Canadian Land Surface Scheme including Biogeochemical Cycles) and to evaluate its impact on carbon and water fluxes for historical and future projections. During his postdoctoral fellowship, he worked closely with Oliver Sonnentag (research supervisor) and two other collaborators: Joe R. Melton from Environment and Climate Change Canada (ECCC) and Alexander Roy from UQTR on a project funded by the Canadian Space Agency (CSA). He has over five years of experience in climate modeling, remote sensing, and flux tower observations, and he also acquired teaching experience by working as an assistant professor in Pakistan before starting a postdoctoral fellowship in Canada. In addition, he has experience in using AI-ML tools in climate modeling. During his MS-Ph.D. in South Korea, he worked on the Community Land Model (CLM, Version 4.0 and 5.0) under the Community Earth System Modeling (CESM) framework and various remote sensing datasets (MODIS, SMAP).
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
 ![](images/team/trejo_david.jpg)
 :::
 ::: {.column width="50%"}
@@ -192,6 +233,27 @@ Email|  trejo_cancino.david_ulises\@uqam.ca
 ::::
 
 As a Research Assistant at UQAM, David Trejo tackles vital tasks in the CARBONIQUE project. He contributes by installing, maintaining, and operating cutting-edge equipment to ensure accurate data collection. This role also involves calibrating scientific equipment and assisting with database maintenance, all to further our understanding of climate change. 
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
+![](images/team/lessard_laurent.jpg)
+
+:::
+::: {.column width="50%"}
+
+|
+-----|:-----
+Name| Laurent Lessard
+Email|  Laurent.Lessard2\@uqtr.ca
+<!--Office| MCML 137-->
+  
+::: 
+::::
+  
+Laurent works as a research professional at UQTR and is in charge of fieldwork coordination. Over the years, he has acquired extensive experience in fieldwork in remote regions in an Arctic context. He also maintains flux towers in Nunavik and contributes to research projects in Nunavik, Nunavut, and Western Canada. As part of the CARBONIQUE project, Laurent contributes to the installation and maintenance of flux towers and their instruments, as well as to drone vegetation surveys.
 
 ---
 
@@ -253,7 +315,49 @@ Email|  perrier.leonie\@uqam.ca
 ::: 
 ::::
 
-Léonie Perrier manages field logistics, budgets, progress reports and provides student support for several research projects on carbon stock mapping, paleoecological reconstructions and carbon budgets in wetlands (Chaire de recherche sur la sequestration du carbone par les tourbières et autres milieux humides d’intérêts). CARBONIQUE is one of the many projects she contributes to.
+Léonie Perrier manages field logistics, budgets, progress reports and provides student support for several research projects on carbon stock mapping, paleoecological reconstructions and carbon budgets in wetlands (Chaire de recherche québécoise portant sur l’étude du CARbone dans les milieux humides comme solution fondée sur la nature pour lutter contre le changement CLImatiQUE (CARCLIQUE)). CARBONIQUE is one of the many projects she contributes to.
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
+![](images/team/de_melo_michaela.jpg)
+
+:::
+::: {.column width="50%"}
+
+ |
+-----|:-----
+Name| Michaela de Melo
+Email| ladeira_de_melo.michaela\@uqam.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+Michaela de Melo is a biologist and research assistant at the Carbon Biogeochemistry Laboratory in Boreal Aquatic systems (UQÀM, Prof. Paul del Giorgio). Before moving to Canada, she completed a master's degree on the metabolism of large Amazonian rivers and a doctorate on the microbial ecology and dynamics of dissolved organic matter in floodplain lakes in the Brazilian Amazon. As a postdoctoral fellow, she studied hydrology and river exports in eastern James Bay using autonomous high-frequency measurements. Michaela collaborates on several projects on the biogeochemistry of reservoirs, lakes and rivers in various environmental contexts.
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
+<!-- ![](images/team/nesic_zoran_temp.png) -->
+
+:::
+::: {.column width="50%"}
+
+ |
+-----|:-----
+Nom| Zoran Nesic
+Courriel|  zoran.nesic\@ubc.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+Zoran Nesic is a senior research engineer at the University of British Columbia (UBS). He is responsible for management of numerous research and equipment design projects for various faculties and departments at UBC. He designs eddy covariance and soil respiration systems that are used at various North American universities as well as by other research institutions. His main research interests are (1) the design of automated measurement systems for long-term environmental measurements and (2) the standardization of measurement and data processing procedures to ensure high quality and reproducibility of research results.
 
 ---
 
@@ -283,7 +387,7 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 :::: {layout-nrow=1}
 ::: {.column width="50%}
 
-**Joannie Beaulne**
+**Joannie Beaulne (ULaval)**
 : *(PhD Student)*
 
 ![](images/team/beaulne_joannie.jpg)
@@ -291,7 +395,7 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 :::
 ::: {.column width="50%"}
 
-**Joanie Boulard**
+**Joanie Boulard (UQAM)**
 : *(M.Sc. Student)*
 
 ![](images/team/boulard_joanie.jpg)
@@ -299,14 +403,21 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 :::
 ::::
 
-:::: {.columns}
+:::: {layout-nrow=1}
 ::: {.column width="50%"}
 
-**Didier Philippo**
+**Didier Philippo (UQAM)**
 : *(M.Sc. Student)*
 
 ![](images/team/philippo_didier.jpg)
 
+:::
+::: {.column width="50%"}
+
+**Albert Chalifoux (ULaval)**
+: *(M.Sc. Student)*
+
+![](images/team/chalifoux_albert.jpg)
 
 :::
 ::::

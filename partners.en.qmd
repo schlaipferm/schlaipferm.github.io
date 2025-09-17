@@ -23,11 +23,10 @@ sidebar: home
 :::: {layout-nrow=1}
 
 :::{.column width="33%"}
-<a href="https://www.environnement.gouv.qc.ca/index_en.asp" target="_blank">![](./images/logos/MELCCFP.jpg)
-:::
 
+<a href="https://www.environnement.gouv.qc.ca/" target="_blank">![](./images/logos/MELCCFP.jpg)</a>
+:::
 :::{.column width="33%"}
-![](./images/logos/plan-verte.png)</a>
 :::
 
 :::{.column width="33%"}
@@ -52,6 +51,39 @@ sidebar: home
 :::
 
 :::: 
+
+## Funding
+
+:::: {layout-nrow=2}
+
+
+:::{.column width="33%"}
+
+<a href="https://www.quebec.ca/gouvernement/politiques-orientations/plan-economie-verte" target="_blank">![](./images/logos/plan-verte.png)
+:::
+
+:::{.column width="33%"}
+
+![](./images/logos/quebec.png)</a>
+:::
+
+:::{.column width="33%"}
+
+<a href="https://www.nserc-crsng.gc.ca/Innovate-Innover/alliance-alliance/index_eng.asp" target="_blank">![](./images/logos/NSERC.png)</a>
+:::
+
+
+:::{.column width="33%"}
+
+<a href="https://www.ducks.ca/" target="_blank">![](./images/logos/DUC.png)</a>
+:::
+
+:::{.column width="33%"}
+:::
+:::{.column width="33%"}
+:::
+
+::::
 
 ## External
 

@@ -1,0 +1,11 @@
+---
+title: "UQAM communiqué de presse"
+author: "Martina Schlaipfer"
+date: "2024-11-11"
+categories: [communiqué de presse,actualités,projet,uqam]
+image: "Screenshot 2025-01-08 124957.png"
+---
+
+L'UQAM annonce le financement de notre projet et informe de la création d'une nouvelle chaire de recherche.
+
+![](//pdf/2024-11-11_UQAM_Actualités.pdf){width=100% height=800px}

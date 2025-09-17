@@ -4,6 +4,7 @@ author: "Martina Schlaipfer"
 date: "2024-07-19"
 categories: [news,flux tower,lac saint-pierre]
 image: "Screenshot 2024-07-29 130300.png"
+title-block-banner: false
 ---
 
 This week our fantastic team under the lead of Olaf Kolle and David Trejo set up our first eddy covariance flux tower at a disturbed marsh site near Lac Saint-Pierre. The site is now operational and real-time photos of the site can be accessed here:  <a href="https://phenocam.nau.edu/webcam/sites/lspdisturbedmarsh/">https://phenocam.nau.edu/webcam/sites/lspdisturbedmarsh/<a>

@@ -1,0 +1,11 @@
+---
+title: "Le Devoir - La force cachée des marécages"
+author: "Martina Schlaipfer"
+date: "2024-12-20"
+categories: [journal,Le Devoir,lac saint-pierre,uqam1,baie saint-françois, marais,marécage,naturel,perturbé]
+image: "Screenshot 2025-01-08 125156.png"
+---
+
+Un journaliste de Le Devoir a visité notre premier site près du Lac Saint-Pierre en compagnie de Michelle Garneau, Sara Knox et David Trejo et fait un reportage sur "La force cachée des marécages".
+
+![](//pdf/2024-12-20_LeDevoir_La_force_cachée_des_marécages.pdf){width=100% height=800px}
