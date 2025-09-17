@@ -1,6 +1,5 @@
 ---
 title: "Documentation"
-sidebar: documentation_en
 ---
 
 This page is intended to serve as a catchall with general information for the project.

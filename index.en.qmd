@@ -1,28 +1,21 @@
 ---
-title: "Home"
-template-partials:
-  - title-block.html
-toc: false
-image: images/banner_home.jpg
+title: "CARBONIQUE - CARBON cycling In QUEbec's wetlands"
 sidebar: home
 ---
 
 ::: {.column-margin}
 **Contact Information**
-<br /><br />
-Principal investigator:<br />
-[Dr. Michelle Garneau](mailto:garneau.michelle@uqam.ca)
-<br /><br />
-Project coordinator:<br /> 
-[Martina Schlaipfer](mailto:schlaipfer.martina@uqam.ca)
-<br /><br />
-[carbonique@uqam.ca](mailto:carbonique@uqam.ca)
+
+Dr. Michelle Garneau
+
+garneau.michelle@uqam.ca
 
 :::
 
-# CARBONIQUE - CARBON cycling In QUEbec's wetlands
 
-The conservation of wetlands to prevent the destruction and degradation of important carbon stocks, as well as the recognition of the role of ecosystems in climate change mitigation and adaptation, are priorities set by the governments of Quebec and Canada. CARBONIQUE is a 5-year research program, jointly funded by Quebec's Ministry of the Environment and the Fight Against Climate Change, Wildlife and Parks through their 2030 Plan for a Green Economy, an NSERC Alliance - Advantage grant and Ducks Unlimited Canada with in-kind contributions from all project partners.
+The conservation of wetlands to prevent the destruction and degradation of important carbon stocks, as well
+as the recognition of the role of ecosystems in climate change mitigation and adaptation, are priorities set by
+the governments of Quebec and Canada.
 
 This project aims to improve understanding the carbon sequestration capacity of key wetland types across
 Canada to better quantify the role of wetlands as nature-based climate solutions to fight climate change. This

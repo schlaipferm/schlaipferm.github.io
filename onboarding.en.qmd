@@ -1,6 +1,0 @@
----
-title: "Project onboarding"
-sidebar: documentation_en
----
-
-Information for new project members

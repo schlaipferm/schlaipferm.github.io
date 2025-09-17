@@ -1,6 +1,0 @@
----
-title: "Data processing"
-sidebar: documentation_en
----
-
-Please check EcoFlux Lab website for detailed description of the data pipeline we are using for processing flux tower data.

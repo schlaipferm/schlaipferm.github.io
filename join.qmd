@@ -4,11 +4,3 @@ sidebar: accueil
 ---
 
 Cette page sera mise à jour avec les projets de maîtrise et de doctorat et ainsi que des postes PostDoc dès qu'ils seront disponibles.
-
-<!-- ## Projets de doctorat/maîtrise à l'Université Laval -->
-<!-- **Date limite : 30 octobre 2024** -->
-<!-- ![](pdf/2024_09_27_ULaval.pdf){width=100% height=800px} -->
-
-<!-- ## Offre d'emploi à l'UQTR -->
-<!-- **Date limite : 19 décembre 2024** -->
-<!-- ![](pdf/2024_12_04_UQTR.pdf){width=100% height=800px} -->

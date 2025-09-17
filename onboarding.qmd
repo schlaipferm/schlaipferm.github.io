@@ -1,6 +1,0 @@
----
-title: "Documentation"
-sidebar: false
----
-
-La documentation est uniquement disponible en anglais. Veuillez voir ici : <a href="https://www.carbonique.ca/en/documentation.html">https://carbonique.ca/en/documentation.html<a>
