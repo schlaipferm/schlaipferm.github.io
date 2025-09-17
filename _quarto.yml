@@ -4,7 +4,7 @@ project:
 
 website:
   cookie-consent: true
-  site-url: https://carboni-que.github.io
+  site-url: https://schlaipferm.github.io
   #title: CARBONIQUE
   favicon: "images/logos/CQ-Logo-Icon-Color-BG@0.5x.png"
   navbar:
