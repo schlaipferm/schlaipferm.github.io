@@ -4,13 +4,10 @@ project:
 
 website:
   cookie-consent: true
-  site-url: https://carboni-que.github.io
-  #title: CARBONIQUE
-  favicon: "images/logos/CQ-Logo-Icon-Color-BG@0.5x.png"
+  site-url: https://schlaipferm.github.io
+  title: "CARBONIQUE"
   navbar:
-    logo: "images/logos/CQ-Logo-Long-Color@0.5x.png"
     left:
-      - index.qmd
       - documentation.qmd
       - data.qmd
       - news.qmd
@@ -18,9 +15,9 @@ website:
     right:
       - icon: github
         href: https://github.com/carboni-que
-        aria-label: Carbonique GitHub
+        aria-label: Quarto GitHub
       - icon: box-arrow-in-right
-        href: https://uqam.sharepoint.com/sites/CARBONIQUE?xsdata=MDV8MDJ8c2NobGFpcGZlci5tYXJ0aW5hQHVxYW0uY2F8YjIxOGYzZmNlNDA0NGI2YmZmZTEwOGRjZDY0ZWVhM2F8MTJjYjRlMWE0MmRhNDkxYzkwZTE3YTdhOTc1MzUwNmZ8MHwwfDYzODYyMDg4MTYzMzA1Nzg3M3xVbmtub3dufFRXRnBiR1pzYjNkOGV5SldJam9pTUM0d0xqQXdNREFpTENKUUlqb2lWMmx1TXpJaUxDSkJUaUk2SWsxaGFXd2lMQ0pYVkNJNk1uMD18MHx8fA%3d%3d&sdata=S2J4UXhkaWdyR1lKZEpGaE5MK3IyYnVMa2M5dlZ2QU05eUIxTHpZZGZ2ND0%3d
+        href: https://carbonique-signin-auth.web.app/index.html
         aria-label: Login
   sidebar:
     - id: accueil
@@ -59,53 +56,7 @@ website:
           text: Join us!
         - href: partners.qmd
           text: Partners
-    - id: documentation
-      title: "Aperçu"
-      style: "floating"
-      collapse-level: 3
-      align: left
-      contents:
-        - href: documentation.qmd
-          text: Aperçu
-    - id: documentation_en
-      title: "Overview"
-      style: "floating"
-      collapse: true
-      align: left
-      contents:
-        - href: documentation.qmd
-          text: Overview
-        - href: onboarding.qmd
-          text: Project onboarding
-        - href: documentation/fieldwork/index.qmd
-          text: Field and maintenance procedures
-          contents:
-          - href: documentation/fieldwork/planning.qmd
-            text: Fieldwork planning
-          - href: documentation/fieldwork/monitoring.qmd
-            text: Daily site monitoring
-        - href: processing.qmd
-          text: Data processing 
-    - id: actualites
-      title: "Communications et Actualités"
-      style: "floating"
-      collapse-level: 3
-      align: left
-      contents:
-        - href: news.qmd
-          text: Mises à jour du projet
-        - href: articles.qmd
-          text: Dans les médias
-    - id: news
-      title: "Outreach and News"
-      style: "floating"
-      collapse-level: 3
-      align: left
-      contents:
-        - href: news.qmd
-          text: Project updates
-        - href: articles.qmd
-          text: In the media
+
 format:
   html:
     theme:
@@ -125,7 +76,7 @@ babelquarto:
     text: "English"
   mainlanguage: 'fr'
   languages: ['en']
-#title-en: "CARBONIQUE"
+title-en: "CARBONIQUE"
 description-en: description in en
 author-en: author in en
 lang: fr

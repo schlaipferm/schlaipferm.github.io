@@ -1,30 +1,18 @@
 ---
-title: "Accueil"
-template-partials:
-  - title-block.html
-toc: false
-image: images/banner_home.jpg
+title: "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec"
 sidebar: accueil
 ---
 
 ::: {.column-margin}
 **Coordonnées**
-<br /><br />
-Chercheuse principale :<br />
-[Dr. Michelle Garneau](mailto:garneau.michelle@uqam.ca)
-<br /><br />
-Coordonnatrice de projet :<br />
-[Martina Schlaipfer](mailto:schlaipfer.martina@uqam.ca)
-<br /><br />
-[carbonique@uqam.ca](mailto:carbonique@uqam.ca)
+
+Dr. Michelle Garneau
+
+garneau.michelle@uqam.ca
 
 :::
 
-# CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec
-
-La conservation des milieux humides est une priorité établie par les gouvernements du Québec et du Canada afin de prévenir la destruction et la dégradation d'importants stocks de carbone, ainsi que la reconnaissance du rôle des écosystèmes dans l'atténuation et l'adaptation au changement climatique. CARBONIQUE est un programme de recherche de 5 ans, financé conjointement par le ministère de l'Environnement et de la Lutte contre les changements climatiques du Québec dans le cadre de leur Plan pour une économie verte 2030, une subvention Alliance - Avantage du CRSNG et Canards Illimités Canada avec des apports en nature de tous les partenaires du projet.
-
-Ce projet vise à améliorer la compréhension de la capacité de séquestration du carbone des principaux types de milieux humides au Canada afin de mieux quantifier le rôle des milieux humides en tant que solutions naturelles pour lutter contre le changement climatique. Il s'agit notamment de quantifier le bilan net de carbone de l'écosystème (BNCE) de quatre types de milieux humides dans des conditions naturelles (tourbière ouverte, tourbière boisée, marécage arboré et marais littoral) afin d'aider à cibler la protection et la conservation des milieux ayant la plus forte capacité d'atténuation du changement climatique. Le BNCE des mêmes types de milieux humides dans des conditions perturbées sera également mesuré, afin d'améliorer les connaissances sur les impacts des perturbations anthropiques sur le bilan carbone de ces milieux humides. Cette comparaison entre les conditions naturelles et perturbées aidera nos partenaires (Ministère de l'Environnement, de la Lutte contre le changement climatique, de la Faune et des Parcs (MELCCFP), Canards Illimités Canada (CIC) et Conservation de la nature Canada (CNC)) à soutenir les décisions pour la conservation des stocks de carbone, la réduction des émissions de gaz à effet de serre (GES) et l'optimisation de la séquestration du carbone dans les sols et la biomasse ligneuse.  
+La conservation des milieux humides est une priorité établie par les gouvernements du Québec et du Canada afin de prévenir la destruction et la dégradation d'importants stocks de carbone, ainsi que la reconnaissance du rôle des écosystèmes dans l'atténuation et l'adaptation au changement climatique. Ce projet vise à améliorer la compréhension de la capacité de séquestration du carbone des principaux types de milieux humides au Canada afin de mieux quantifier le rôle des milieux humides en tant que solutions naturelles pour lutter contre le changement climatique. Il s'agit notamment de quantifier le bilan net de carbone de l'écosystème (BNCE) de quatre types de milieux humides dans des conditions naturelles (tourbière ouverte, tourbière boisée, marécage arboré et marais littoral) afin d'aider à cibler la protection et la conservation des milieux ayant la plus forte capacité d'atténuation du changement climatique. Le BNCE des mêmes types de milieux humides dans des conditions perturbées sera également mesuré, afin d'améliorer les connaissances sur les impacts des perturbations anthropiques sur le bilan carbone de ces milieux humides. Cette comparaison entre les conditions naturelles et perturbées aidera nos partenaires (Ministère de l'Environnement, de la Lutte contre le changement climatique, de la Faune et des Parcs (MELCCFP), Canards Illimités Canada (CIC) et Conservation de la nature Canada (CNC)) à soutenir les décisions pour la conservation des stocks de carbone, la réduction des émissions de gaz à effet de serre (GES) et l'optimisation de la séquestration du carbone dans les sols et la biomasse ligneuse.  
 
 L'approche du BNCE intègre les échanges de gaz entre la terre et l'atmosphère (c'est-à-dire les flux verticaux), l'accumulation du carbone dans les sols et la biomasse, et l'exportation latérale du carbone (c'est-à-dire les flux latéraux) sous ses diverses formes. Ceci sera réalisé à travers une approche de continuum à l'échelle du bassin versant. L'appui du gouvernement du Québec à cette demande de projet est important, car la recherche proposée aura des répercussions concrètes sur les pratiques de conservation et d'utilisation des terres, non seulement pour le Québec, mais aussi pour le Canada.
 

@@ -4,11 +4,3 @@ sidebar: home
 ---
 
 This page will be updated with masters and PhD thesis projects as well as PostDoc positions as they become available.
-
-<!-- ## PhD/master's projects at Laval University -->
-<!-- **Deadline: October 30th 2024** -->
-<!-- ![](pdf/2024_09_27_ULaval_en.pdf){width=100% height=800px} -->
-
-<!-- ## Job offer at UQTR -->
-<!-- **Deadline: December 19th 2024** -->
-<!-- ![](pdf/2024_12_04_UQTR_en.pdf){width=100% height=800px} -->

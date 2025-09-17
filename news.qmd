@@ -1,6 +1,5 @@
 ---
 title: "Communications et Actualités"
-sidebar: actualites
 ---
 
-Cette information est uniquement disponible en anglais en ce moment. Veuillez voir ici : <a href="https://www.carbonique.ca/en/news.html">https://carbonique.ca/en/news.html</a>
+Cette information est uniquement disponible en anglais en ce moment. Veuillez voir ici : <a href="https://schlaipferm.github.io/en/news.html">https://schlaipferm.github.io/en/news.html</a>

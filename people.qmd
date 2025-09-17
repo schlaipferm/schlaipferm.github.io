@@ -21,28 +21,7 @@ Courriel|  garneau.michelle\@uqam.ca
 ::: 
 ::::
 
-Michelle Garneau a initié le projet et établi de solides collaborations avec le gouvernement du Québec et les deux autres partenaires au cours de la dernière année. Professeure titulaire à l'Université du Québec à Montréal (UQAM), Mme Garneau a dirigé avec succès plusieurs projets de recherche utilisant des méthodes novatrices pour documenter l'impact des variations climatiques sur la séquestration du carbone dans le temps et l'espace. Ses activités de recherche au cours des 25 dernières années ont contribué au développement de la Loi concernant la conservation des milieux humides et hydriques (LCMHH) en reconnaissant l’importance de la fonction de séquestration du carbone dans les milieux humides et leur conservation pour la lutte contre les changements climatiques. Elle a été sollicitée pour diriger le programme québécois de recherche sur les milieux humides et l'atténuation des effets du climat, qui a donné lieu au présent projet.
-
----
-
-:::: {layout-nrow=1}
-:::{.column width="50%"}
-
-![](images/team/davidson_scott.jpg)
-
-:::
-::: {.column width="50%"}
-
-|
------|:-----
-Name| Dr. Scott J. Davidson
-Email| davidson.scott_j\@uqam.ca
-<!--Office| PCMH B1100-->
-
-::: 
-::::
-
-Scott J. Davidson est professeur adjoint en dynamique du carbone des milieux humides à l'Université du Québec à Montréal (UQAM) et dirige le Groupe de recherche sur la résilience des milieux humides. Ses recherches portent sur la façon dont les milieux humides des régions arctiques, boréales, alpines et tempérées réagissent aux changements climatiques, à l'utilisation des terres et aux perturbations, en mettant l'accent sur le cycle du carbone et les émissions de gaz à effet de serre. Les recherches du Scott Davidson combinent les mesures sur le terrain, la télédétection et la modélisation des écosystèmes pour comprendre la résilience des milieux humides et leur rôle dans la régulation du climat. Il a contribué de manière significative à l'avancement des connaissances sur la façon dont la conservation et la restauration des milieux humides contribuent à l'atténuation du changement climatique et a participé à des efforts internationaux visant à créer des réseaux de recherche et des initiatives de science communautaire.
+Michelle Garneau a initié le projet et établi de solides collaborations avec le gouvernement du Québec et les deux autres partenaires au cours de la dernière année. Professeure titulaire à l'Université du Québec à Montréal (UQAM), Mme Garneau a dirigé avec succès plusieurs projets de recherche utilisant des méthodes novatrices pour documenter l'impact des variations climatiques sur la séquestration du carbone dans le temps et l'espace. Les recherches menées par son groupe au cours des 22 dernières années ont servi de base pour modifier et améliorer la Loi provinciale "sur les milieux humides et hydriques" (LMHH) par l'ajout d'une réglementation spécifique pour la conservation des stocks de carbone dans différents types de milieux humides au Québec. Elle a été sollicitée pour diriger le programme québécois de recherche sur les milieux humides et l'atténuation des effets du climat, qui a donné lieu au présent projet.
 
 ---
 
@@ -112,8 +91,8 @@ Vincent Maire est professeur en sciences de l'environnement à l'Université du 
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-![](images/team/roy_alexandre.jpg)
-
+<!--![](images/headshots/zoran-nesic-oval.png)
+-->
 :::
 ::: {.column width="50%"}
 
@@ -133,8 +112,8 @@ Alexandre Roy est professeur adjoint à l'Université du Québec à Trois-Riviè
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-![](images/team/bourgault_marc-andre.jpg)
-
+<!--![](images/headshots/zoran-nesic-oval.png)
+-->
 :::
 ::: {.column width="50%"}
 
@@ -198,26 +177,6 @@ Evelyne Thiffault est professeure agrégée en écologie et aménagement foresti
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-![](images/team/umair_muhammad.jpg)
-:::
-::: {.column width="50%"}
-
- |
------|:-----
-Name| Muhammad Umair
-Courriel| muhammad.umair.1\@umontreal.ca
-<!--Office| MCML 137-->
-
-::: 
-::::
-
-Muhammad Umair est data scientist pour le projet CARBONIQUE. Avant d'occuper ce poste, il était chercheur postdoctoral à l'Université de Montréal (UdeM, <a href="https://atmosbios.com/fr/" target="_blank">Labo Atmosbios</a>), où ses travaux consistaient à mettre en œuvre le paramétrage de « l’optimisation stomatique basée sur l’hydraulique du xylème » dans CLASSIC (Modèle de schéma canadien de surface terrestre incluant les cycles biogéochimiques) et d’évaluer son impact sur les flux de carbone et d’eau pour des projections historiques et futures. Durant son stage postdoctoral, il a travaillé en étroite collaboration avec Oliver Sonnentag (directeur de recherche) et deux autres collaborateurs : Joe R. Melton d'Environnement et Changement climatique Canada (ECCC) et Alexander Roy de l'UQTR sur un projet financé par l'Agence spatiale canadienne (ASC). Il possède plus de cinq ans d'expérience en modélisation climatique, en télédétection et en observations de tours de flux. Il a également acquis une expérience en enseignement en travaillant comme professeur adjoint au Pakistan avant de commencer une bourse postdoctorale au Canada. De plus, il possède de l'expérience dans l'utilisation des outils IA-ML dans la modélisation climatique. Au cours de son MS-Ph.D. en Corée du Sud, il a travaillé sur le modèle terrestre communautaire (CLM, versions 4.0 et 5.0) dans le cadre de modélisation du système terrestre communautaire (CESM) et sur divers ensembles de données de télédétection (MODIS, SMAP).
-
----
-
-:::: {layout-nrow=1}
-:::{.column width="50%"}
-
 ![](images/team/trejo_david.jpg)
 
 :::
@@ -233,27 +192,6 @@ Courriel|  trejo_cancino.david_ulises\@uqam.ca
 ::::
 
 En tant que professionnel de recherche à l'UQAM, David accomplit des tâches essentielles dans le cadre du projet CARBONIQUE. Il contribue à l'installation, à l'entretien et au fonctionnement d'équipements de pointe afin d'assurer la précision de la collecte des données. Son rôle consiste également à calibrer l'équipement scientifique et à participer à la maintenance de la base de données, tout cela dans le but d'améliorer notre compréhension du changement climatique.
-
----
-  
-:::: {layout-nrow=1}
-:::{.column width="50%"}
-
-![](images/team/lessard_laurent.jpg)
-
-:::
-::: {.column width="50%"}
-
-|
------|:-----
-Nom| Laurent Lessard
-Courriel|  Laurent.Lessard2\@uqtr.ca
-<!--Office| MCML 137-->
-  
-::: 
-::::
-  
-Laurent travaille comme professionnel de recherche à l'UQTR et s'occupe de la coordination des travaux de terrain. Au fil des années, il a acquis une grande expérience en travaux de terrain en régions éloignées dans un contexte arctique. Il s'occupe également de la maintenance de tours à flux au Nunavik et contribue à des projets de recherche au Nunavik, au Nunavut et dans l'Ouest canadien. Dans le cadre du projet CARBONIQUE, Laurent contribue à l'installation et la maintenance des tours à flux et de leurs instruments ainsi qu'aux relevés de végétation par drone.
 
 ---
 
@@ -316,49 +254,7 @@ Courriel|  perrier.leonie\@uqam.ca
 ::: 
 ::::
 
-Léonie Perrier est la coordonnatrice de la Chaire de recherche québécoise portant sur l’étude du CARbone dans les milieux humides comme solution fondée sur la nature pour lutter contre le changement CLImatiQUE (CARCLIQUE). Elle gère la logistique de terrain, les budgets, les rapports d'avancement et apporte un soutien aux étudiants pour plusieurs projets de recherche sur la cartographie des stocks de carbone, les reconstructions paléoécologiques et les bilans de carbone dans les milieux humides. Elle participe activement à la mise en place du projet de recherche CARBONIQUE.
-
----
-
-:::: {layout-nrow=1}
-:::{.column width="50%"}
-
-![](images/team/de_melo_michaela.jpg)
-
-:::
-::: {.column width="50%"}
-
- |
------|:-----
-Nom| Michaela de Melo
-Courriel|  ladeira_de_melo.michaela\@uqam.ca
-<!--Office| MCML 137-->
-
-::: 
-::::
-
-Michaela de Melo est biologiste et agente de recherche au laboratoire de biogéochimie du carbone dans les systèmes aquatiques boréaux (UQÀM, prof. Paul del Giorgio). Avant de travailler au Canada, elle a réalisé une maîtrise sur le métabolisme des grands fleuves amazoniens et un doctorat sur l'écologie microbienne et la dynamique de la matière organique dissoute dans les lacs de plaine inondable en Amazonie brésilienne. En tant que postdoctorante, elle a étudié l’hydrologie et les exports fluviaux dans l’est de la baie James en utilisant des mesures haute fréquence autonomes. Michaela collabore à plusieurs projets sur la biogéochimie des réservoirs, lacs et rivières dans divers contextes environnementaux.
-
----
-
-:::: {layout-nrow=1}
-:::{.column width="50%"}
-
-<!-- ![](images/team/nesic_zoran_temp.png) -->
-
-:::
-::: {.column width="50%"}
-
- |
------|:-----
-Nom| Zoran Nesic
-Courriel|  zoran.nesic\@ubc.ca
-<!--Office| MCML 137-->
-
-::: 
-::::
-
-Zoran Nesic est ingénieur de recherche principal à l'Université de la Colombie-Britannique (UBC). Il est responsable de la gestion de nombreux projets de recherche et de conception d'équipements pour diverses facultés et départements de l'UBC. Il conçoit des systèmes de covariance de flux et de respiration du sol qui sont utilisés dans diverses universités nord-américaines ainsi que par d'autres instituts de recherche. Ses principaux intérêts de recherche sont (1) la conception de systèmes de mesure automatisés pour les mesures environnementales à long terme et (2) la standardisation des procédures de mesure et de traitement des données pour assurer une haute qualité et reproductibilité des résultats de recherche.
+Léonie Perrier est la coordonnatrice de la Chaire de recherche sur la séquestration du carbone par les tourbières et autres milieux humides d'intérêts. Elle gère la logistique de terrain, les budgets, les rapports d'avancement et apporte un soutien aux étudiants pour plusieurs projets de recherche sur la cartographie des stocks de carbone, les reconstructions paléoécologiques et les bilans de carbone dans les milieux humides. Elle participe activement à la mise en place du projet de recherche CARBONIQUE.
 
 ---
 
@@ -388,7 +284,7 @@ Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que sc
 :::: {layout-nrow=1}
 ::: {.column width="50%}
 
-**Joannie Beaulne (ULaval**
+**Joannie Beaulne**
 : *(Doctorat en sciences forestières)*
 
 ![](images/team/beaulne_joannie.jpg)
@@ -396,7 +292,7 @@ Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que sc
 :::
 ::: {.column width="50%"}
 
-**Joanie Boulard (UQAM)**
+**Joanie Boulard**
 : *(Maitrise en biologie)*
 
 ![](images/team/boulard_joanie.jpg)
@@ -404,22 +300,14 @@ Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que sc
 :::
 ::::
 
-:::: {layout-nrow=1}
+:::: {.columns}
 ::: {.column width="50%"}
 
-**Didier Philippo (UQAM)**
+**Didier Philippo**
 : *(Maitrise en biologie)*
 
 ![](images/team/philippo_didier.jpg)
 
-
-:::
-::: {.column width="50%"}
-
-**Albert Chalifoux (ULaval)**
-: *(Maitrise en sciences géographiques)*
-
-![](images/team/chalifoux_albert.jpg)
 
 :::
 ::::

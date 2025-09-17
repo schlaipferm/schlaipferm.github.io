@@ -1,5 +1,0 @@
----
-title: "Ressources"
----
-
-Fiches d'info etc.

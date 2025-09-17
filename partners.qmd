@@ -23,16 +23,17 @@ sidebar: accueil
 :::: {layout-nrow=1}
 
 :::{.column width="33%"}
-
-<a href="https://www.environnement.gouv.qc.ca/" target="_blank">![](./images/logos/MELCCFP.jpg)</a>
-:::
-:::{.column width="33%"}
+<a href="https://www.environnement.gouv.qc.ca/" target="_blank">![](./images/logos/MELCCFP.jpg)
 :::
 
 :::{.column width="33%"}
+![](./images/logos/plan-verte.png)</a>
 :::
 
-:::: 
+:::{.column width="33%"}
+:::
+
+::::
 
 ## Organisations de conservation à but non lucratif
 
@@ -51,36 +52,6 @@ sidebar: accueil
 :::
 
 :::: 
-
-## Financement
-
-:::: {layout-nrow=2}
-:::{.column width="33%"}
-
-<a href="https://www.quebec.ca/gouvernement/politiques-orientations/plan-economie-verte" target="_blank">![](./images/logos/plan-verte.png)
-:::
-
-:::{.column width="33%"}
-
-![](./images/logos/quebec.png)</a>
-:::
-
-:::{.column width="33%"}
-<a href="https://www.nserc-crsng.gc.ca/Innovate-Innover/alliance-alliance/index_fra.asp" target="_blank">![](./images/logos/NSERC.png)</a>
-:::
-
-:::{.column width="33%"}
-
-<a href="https://www.canards.ca/" target="_blank">![](./images/logos/CIC.jpg)</a>
-:::
-
-:::{.column width="33%"}
-:::
-
-:::{.column width="33%"}
-:::
-
-::::
 
 ## Externe
 
